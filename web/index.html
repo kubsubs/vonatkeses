@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <title>🚆 Vonatkésés Összesítő</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f4f4f4;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .summary {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+      margin-bottom: 2rem;
+    }
+    .top5 li {
+      margin-bottom: 0.5rem;
+    }
+    code {
+      background: #eee;
+      padding: 0.1rem 0.4rem;
+      border-radius: 4px;
+    }
+    input {
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <h1>🚆 MÁV Késés Összesítő</h1>
+
+  <div style="text-align: center;">
+    📅 Dátum: <input id="dateInput" type="date">
+    <button onclick="loadSummary()">Betöltés</button>
+  </div>
+
+  <div id="result" class="summary" style="display: none;">
+    <h2 id="summary-date"></h2>
+    <p>🔢 <strong>Összes vonat:</strong> <span id="totalTrains"></span></p>
+    <p>⏰ <strong>Összes késés:</strong> <span id="totalDelay"></span> perc</p>
+    <p>📉 <strong>Átlagos késés:</strong> <span id="avgDelay"></span> perc</p>
+    <p>🚨 <strong>Legkésőbb vonal:</strong> <span id="worstLine"></span></p>
+    
+    <h3>🏆 Top 5 legnagyobb késés:</h3>
+    <ul id="top5" class="top5"></ul>
+  </div>
+
+  <script>
+    function loadSummary() {
+      const input = document.getElementById('dateInput').value;
+      if (!input) {
+        alert("Válassz ki egy dátumot!");
+        return;
+      }
+
+      const file = `../summary-${input}.json`;
+
+      fetch(file)
+        .then(res => {
+          if (!res.ok) throw new Error("Fájl nem található");
+          return res.json();
+        })
+        .then(data => {
+          document.getElementById('result').style.display = 'block';
+          document.getElementById('summary-date').innerText = `📆 Dátum: ${data.date}`;
+          document.getElementById('totalTrains').innerText = data.totalTrains;
+          document.getElementById('totalDelay').innerText = data.totalDelayMinutes;
+          document.getElementById('avgDelay').innerText = data.averageDelay;
+          document.getElementById('worstLine').innerText = `${data.mostDelayedLine.name} (${data.mostDelayedLine.totalMinutes} perc)`;
+
+          const ul = document.getElementById('top5');
+          ul.innerHTML = '';
+          data.top5Delays.forEach(item => {
+            const li = document.createElement('li');
+            li.innerHTML = `🚈 <strong>${item.line}</strong> – ${item.delayMin} perc késés @ ${item.stop}`;
+            ul.appendChild(li);
+          });
+          renderDelayChart(data.top5Delays);
+
+        })
+        .catch(err => {
+          alert("❌ Nem található adat ehhez a dátumhoz.");
+          document.getElementById('result').style.display = 'none';
+        });
+    }
+  </script>
+  <canvas id="chart" width="600" height="300"></canvas>
+  <script>
+    function renderDelayChart(top5) {
+      const ctx = document.getElementById('chart').getContext('2d');
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: top5.map(e => `${e.line} @ ${e.stop}`),
+          datasets: [{
+            label: 'Késés (perc)',
+            data: top5.map(e => e.delayMin),
+            backgroundColor: 'rgba(255, 99, 132, 0.5)',
+            borderColor: 'rgba(255, 99, 132, 1)',
+            borderWidth: 1
+          }]
+        },
+        options: {
+          scales: {
+            y: { beginAtZero: true }
+          },
+          plugins: {
+            title: {
+              display: true,
+              text: '🚨 Top 5 legnagyobb késés'
+            }
+          }
+        }
+      });
+    }
+  </script>
+</body>
+</html>
+
