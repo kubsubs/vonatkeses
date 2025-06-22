@@ -1,8 +1,8 @@
 {
   "date": "2025-06-22",
-  "totalTrains": 61,
+  "totalTrains": 76,
   "totalDelayMinutes": 121,
-  "averageDelay": 2,
+  "averageDelay": 1.6,
   "mostDelayedLine": {
     "name": "Sz 8201",
     "totalMinutes": 29
