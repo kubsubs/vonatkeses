@@ -88,3 +88,6 @@ date;time;tripId;shortName;lineName;stopName;plannedArrival;actualArrival;delayM
 2025-06-22;2220;VHJpcDoxOjI0NjYyMTYx;5008  sebesvonat;S TISZA-TÓ;Nyékládháza;00:18;22:19;0
 2025-06-22;2220;VHJpcDoxOjIwOTQ0OTMy;19610 BAGOLYVONAT személyvonat;Sz BAGOLYVONAT;Alsógyenes;00:18;22:19;1321
 2025-06-22;2220;VHJpcDoxOjIwOTQ0NDQz;19790 BAGOLYVONAT személyvonat;Sz BAGOLYVONAT;Aszófő;00:20;22:19;1320
+2025-06-22;2230;VHJpcDoxOjI0MDM2MTQ2;18611 BAGOLYVONAT személyvonat;Sz BAGOLYVONAT;Fonyód;00:31;22:29;0
+2025-06-22;2230;VHJpcDoxOjI1MDMzMTUx;2360  személyvonat;S70;Alsógöd;00:28;22:29;1322
+2025-06-22;2230;VHJpcDoxOjIzODUwNzgx;4770  személyvonat;G44;Budapest-Kelenföld;00:26;22:29;1324
