@@ -1,13 +1,27 @@
 {
   "date": "2025-06-22",
-  "totalTrains": 86,
-  "totalDelayMinutes": 2513,
-  "averageDelay": 29.2,
+  "totalTrains": 89,
+  "totalDelayMinutes": 5154,
+  "averageDelay": 57.9,
   "mostDelayedLine": {
-    "name": "S80",
-    "totalMinutes": 1315
+    "name": "Sz BAGOLYVONAT",
+    "totalMinutes": 2652
   },
   "top5Delays": [
+    {
+      "tripId": "VHJpcDoxOjIwOTQ0OTMy",
+      "line": "Sz BAGOLYVONAT",
+      "stop": "Alsógyenes",
+      "delayMin": 1321,
+      "time": "2220"
+    },
+    {
+      "tripId": "VHJpcDoxOjIwOTQ0NDQz",
+      "line": "Sz BAGOLYVONAT",
+      "stop": "Aszófő",
+      "delayMin": 1320,
+      "time": "2220"
+    },
     {
       "tripId": "VHJpcDoxOjI1MTU5NTU3",
       "line": "S80",
@@ -27,20 +41,6 @@
       "line": "Sz 8201",
       "stop": "Szenta",
       "delayMin": 15,
-      "time": "2226"
-    },
-    {
-      "tripId": "VHJpcDoxOjI0Njc0NzIy",
-      "line": "Sz 8201",
-      "stop": "Nagyberki",
-      "delayMin": 14,
-      "time": "2226"
-    },
-    {
-      "tripId": "VHJpcDoxOjIwOTQzMTAz",
-      "line": "IR DÉLI -> PARTI",
-      "stop": "Polgárdi-Ipartelepek",
-      "delayMin": 13,
       "time": "2226"
     }
   ]
