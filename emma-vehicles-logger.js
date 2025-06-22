@@ -144,12 +144,15 @@ const main = async () => {
     fs.appendFileSync(arrivalsPath, csvHeader + lines.join('\n') + '\n');
     fs.writeFileSync(savedTripsPath, JSON.stringify(seenTrips, null, 2));
     console.log(`✅ Mentve ${lines.length} késés adat.`);
-
-    gitCommitAndPush('.');
-
   } else {
     console.log('📭 Nem volt új késés.');
   }
+  
+  execSync('node daily-summary.js');
+  const summaryFile = `summary-${day}.json`;
+  execSync(`git add ${summaryFile}`);
+  gitCommitAndPush('.');
+
 };
 
 main();
