@@ -1,0 +1,444 @@
+[
+  {
+    "vehicleId": "1:918061939685",
+    "lat": 46.4319305,
+    "lon": 21.2377892,
+    "speed": 0,
+    "heading": 0,
+    "label": "",
+    "lastUpdated": 1750635289,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 91200,
+      "stop": {
+        "name": "Lőkösháza"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODUyNjc4",
+      "tripHeadsign": "Wien Hbf",
+      "tripShortName": "346 DACIA EuroCity",
+      "routeShortName": "<span class=\"MNR2007\">&#467;</span>",
+      "route": {
+        "longName": "EC DACIA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150392",
+    "lat": 47.7324409,
+    "lon": 19.1553898,
+    "speed": 18,
+    "heading": 4,
+    "label": "",
+    "lastUpdated": 1750636146,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 6540,
+      "stop": {
+        "name": "Vác-Alsóváros"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDMzMjE5LjIyMzMzMjkw",
+      "tripHeadsign": "Szob",
+      "tripShortName": "2310  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#363;</span>",
+      "route": {
+        "longName": "S70",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504312942",
+    "lat": 47.1610985,
+    "lon": 18.4065704,
+    "speed": 8,
+    "heading": 356,
+    "label": "",
+    "lastUpdated": 1750636130,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 86940,
+      "stop": {
+        "name": "Székesfehérvár"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1NTIz",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "18521 BAGOLYVONAT személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz BAGOLYVONAT",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150164",
+    "lat": 46.9942818,
+    "lon": 18.2567902,
+    "speed": 28,
+    "heading": 41,
+    "label": "",
+    "lastUpdated": 1750636190,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 93900,
+      "stop": {
+        "name": "Maroshegy"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0MDM2MTQ2",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "18611 BAGOLYVONAT személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz BAGOLYVONAT",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504800086",
+    "lat": 47.18256,
+    "lon": 18.4239292,
+    "speed": 0,
+    "heading": 245,
+    "label": "",
+    "lastUpdated": 1750635828,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 6360,
+      "stop": {
+        "name": "Székesfehérvár"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1MDI1",
+      "tripHeadsign": "Keszthely",
+      "tripShortName": "18610 BAGOLYVONAT személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz BAGOLYVONAT",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150982",
+    "lat": 47.4324799,
+    "lon": 19.6790695,
+    "speed": 0,
+    "heading": 115,
+    "label": "",
+    "lastUpdated": 1750636107,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 6480,
+      "stop": {
+        "name": "Szentmártonkáta"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ2NzAw",
+      "tripHeadsign": "Nagykáta",
+      "tripShortName": "3610  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#362;</span>",
+      "route": {
+        "longName": "S60",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915506300473",
+    "lat": 47.5000496,
+    "lon": 19.0951099,
+    "speed": 0,
+    "heading": 268,
+    "label": "",
+    "lastUpdated": 1750633249,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 14700,
+      "stop": {
+        "name": "Kőbánya felső"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjI5NDAz",
+      "tripHeadsign": "Miskolc-Tiszai",
+      "tripShortName": "5040  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 5040",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504800235",
+    "lat": 46.757679,
+    "lon": 17.2474003,
+    "speed": 3,
+    "heading": 221,
+    "label": "",
+    "lastUpdated": 1750636176,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 7140,
+      "stop": {
+        "name": "Balatonszentgyörgy"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1NDkw",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "18619 BAGOLYVONAT személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz BAGOLYVONAT",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172790",
+    "lat": 46.8774109,
+    "lon": 17.4282207,
+    "speed": 4,
+    "heading": 328,
+    "label": "",
+    "lastUpdated": 1750634914,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 5340,
+      "stop": {
+        "name": "Tapolca"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0NDQz",
+      "tripHeadsign": "Tapolca",
+      "tripShortName": "19790 BAGOLYVONAT személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz BAGOLYVONAT",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173889",
+    "lat": 47.5198517,
+    "lon": 21.6286697,
+    "speed": 3,
+    "heading": 238,
+    "label": "",
+    "lastUpdated": 1750635950,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 7680,
+      "stop": {
+        "name": "Sáránd"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1Mjk1NzU1",
+      "tripHeadsign": "Nagykereki",
+      "tripShortName": "36710  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#414;</span>",
+      "route": {
+        "longName": "S506",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504800144",
+    "lat": 48.0625114,
+    "lon": 21.7932701,
+    "speed": 22,
+    "heading": 244,
+    "label": "",
+    "lastUpdated": 1750635966,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 90600,
+      "stop": {
+        "name": "Nyíregyháza"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMjk4OTE5",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "9 TRANSCARPATHIA gyorsvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#473;</span>",
+      "route": {
+        "longName": "Gy TRANSCARPATHIA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150529",
+    "lat": 46.7022705,
+    "lon": 17.4053898,
+    "speed": 22,
+    "heading": 269,
+    "label": "",
+    "lastUpdated": 1750636030,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 92940,
+      "stop": {
+        "name": "Balatonmáriafürdő"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0MDM2MTQ1",
+      "tripHeadsign": "Keszthely",
+      "tripShortName": "18618 BAGOLYVONAT személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz BAGOLYVONAT",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150180",
+    "lat": 47.3920517,
+    "lon": 18.9934196,
+    "speed": 33,
+    "heading": 55,
+    "label": "",
+    "lastUpdated": 1750636166,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 93240,
+      "stop": {
+        "name": "Budafok"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzOTc3",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "19779 BAGOLYVONAT személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz BAGOLYVONAT",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151048",
+    "lat": 47.7469597,
+    "lon": 18.7262192,
+    "speed": 27,
+    "heading": 39,
+    "label": "",
+    "lastUpdated": 1750636190,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 6840,
+      "stop": {
+        "name": "Esztergom"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDMzNDE2LjIyMzQyNDk0",
+      "tripHeadsign": "Esztergom",
+      "tripShortName": "2010  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#365;</span>",
+      "route": {
+        "longName": "S72",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151063",
+    "lat": 47.6409912,
+    "lon": 19.5156898,
+    "speed": 32,
+    "heading": 112,
+    "label": "",
+    "lastUpdated": 1750635986,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 6600,
+      "stop": {
+        "name": "Tura"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0NjA4",
+      "tripHeadsign": "Hatvan",
+      "tripShortName": "3030  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#366;</span>",
+      "route": {
+        "longName": "S80",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504800029",
+    "lat": 47.4683189,
+    "lon": 21.5027809,
+    "speed": 22,
+    "heading": 59,
+    "label": "",
+    "lastUpdated": 1750636166,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 93420,
+      "stop": {
+        "name": "Debrecen"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Mjg3OTQ5",
+      "tripHeadsign": "Kyiv-Pas.",
+      "tripShortName": "10 TRANSCARPATHIA gyorsvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#473;</span>",
+      "route": {
+        "longName": "Gy TRANSCARPATHIA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:914304705025",
+    "lat": 47.2859612,
+    "lon": 20.0666409,
+    "speed": 0,
+    "heading": 152,
+    "label": "",
+    "lastUpdated": 1750636190,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 91740,
+      "stop": {
+        "name": "Újszász"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNzg3NTM1",
+      "tripHeadsign": "Szolnok",
+      "tripShortName": "3388  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#362;</span>",
+      "route": {
+        "longName": "S60",
+        "mode": "RAIL"
+      }
+    }
+  }
+]
