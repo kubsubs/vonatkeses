@@ -81,3 +81,5 @@ date;time;tripId;shortName;lineName;stopName;plannedArrival;actualArrival;delayM
 2025-06-22;2150;VHJpcDoxOjI1MDMzNDE3;2181  személyvonat;S72;Dorog;23:43;21:49;0
 2025-06-22;2150;VHJpcDoxOjI1MDMzNDE1;2361  személyvonat;S70;Alsógöd;23:47;21:49;0
 2025-06-22;2150;VHJpcDoxOjIwOTQ0NTc0;19798  személyvonat;Sz 19751/19752/19761/19781/19788/19798/9759/9760/9761/9770/9772;Balatonrendes;23:48;21:49;0
+2025-06-22;2200;VHJpcDoxOjI0NjYyMDUx;9919  személyvonat;Sz 19928/19938/9912/9914/9916/9919/9928/9929/9937/9938/9958;Fertőszentmiklós;04:03;21:59;1077
+2025-06-22;2200;VHJpcDoxOjI1MTU5NTU3;3068  személyvonat;S80;Kőbánya felső;00:05;21:59;1315

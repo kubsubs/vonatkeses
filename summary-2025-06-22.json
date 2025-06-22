@@ -1,13 +1,27 @@
 {
   "date": "2025-06-22",
-  "totalTrains": 82,
-  "totalDelayMinutes": 121,
-  "averageDelay": 1.5,
+  "totalTrains": 84,
+  "totalDelayMinutes": 2513,
+  "averageDelay": 29.9,
   "mostDelayedLine": {
-    "name": "Sz 8201",
-    "totalMinutes": 29
+    "name": "S80",
+    "totalMinutes": 1315
   },
   "top5Delays": [
+    {
+      "tripId": "VHJpcDoxOjI1MTU5NTU3",
+      "line": "S80",
+      "stop": "Kőbánya felső",
+      "delayMin": 1315,
+      "time": "2200"
+    },
+    {
+      "tripId": "VHJpcDoxOjI0NjYyMDUx",
+      "line": "Sz 19928",
+      "stop": "Fertőszentmiklós",
+      "delayMin": 1077,
+      "time": "2200"
+    },
     {
       "tripId": "VHJpcDoxOjIwOTQ0MDkw",
       "line": "Sz 8201",
@@ -27,20 +41,6 @@
       "line": "IR DÉLI -> PARTI",
       "stop": "Polgárdi-Ipartelepek",
       "delayMin": 13,
-      "time": "2226"
-    },
-    {
-      "tripId": "VHJpcDoxOjI0NjY4NTAy",
-      "line": "S60",
-      "stop": "Sülysáp",
-      "delayMin": 11,
-      "time": "2226"
-    },
-    {
-      "tripId": "VHJpcDoxOjIwOTQ1NTIz",
-      "line": "Sz BAGOLYVONAT",
-      "stop": "Máriahullámtelep",
-      "delayMin": 11,
       "time": "2226"
     }
   ]
