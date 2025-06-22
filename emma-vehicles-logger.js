@@ -1,6 +1,21 @@
 import fetch from 'node-fetch';
 import fs from 'fs';
 import path from 'path';
+import { execSync } from 'child_process';
+
+function gitCommitAndPush(filePath) {
+  try {
+    execSync(`git config --global user.email "cron@vonatkeses.hu"`);
+    execSync(`git config --global user.name "VonatKésés Bot"`);
+
+    execSync(`git add ${filePath}`);
+    execSync(`git commit -m "♻️ Auto-update at ${new Date().toISOString()}"`);
+    execSync(`git push https://${process.env.GITHUB_TOKEN}@github.com/kubsubs/vonatkeses.git HEAD:main`);
+    console.log("✅ Git push sikeres!");
+  } catch (err) {
+    console.error("❌ Git push hiba:", err.message);
+  }
+}
 
 const gql = async (query, variables = {}) => {
   const res = await fetch('https://emma.mav.hu/otp2-backend/otp/routers/default/index/graphql', {
@@ -129,6 +144,9 @@ const main = async () => {
     fs.appendFileSync(arrivalsPath, csvHeader + lines.join('\n') + '\n');
     fs.writeFileSync(savedTripsPath, JSON.stringify(seenTrips, null, 2));
     console.log(`✅ Mentve ${lines.length} késés adat.`);
+
+    gitCommitAndPush('.');
+
   } else {
     console.log('📭 Nem volt új késés.');
   }
