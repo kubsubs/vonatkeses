@@ -1,8 +1,8 @@
 {
   "date": "2025-06-22",
-  "totalTrains": 102,
-  "totalDelayMinutes": 18107,
-  "averageDelay": 177.5,
+  "totalTrains": 103,
+  "totalDelayMinutes": 19428,
+  "averageDelay": 188.6,
   "mostDelayedLine": {
     "name": "Sz BAGOLYVONAT",
     "totalMinutes": 3911
