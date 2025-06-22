@@ -1,13 +1,20 @@
 {
   "date": "2025-06-22",
-  "totalTrains": 97,
-  "totalDelayMinutes": 13091,
-  "averageDelay": 135,
+  "totalTrains": 102,
+  "totalDelayMinutes": 18107,
+  "averageDelay": 177.5,
   "mostDelayedLine": {
     "name": "Sz BAGOLYVONAT",
-    "totalMinutes": 2652
+    "totalMinutes": 3911
   },
   "top5Delays": [
+    {
+      "tripId": "VHJpcDoxOjIwOTQ0NjA4",
+      "line": "S80",
+      "stop": "Rákos",
+      "delayMin": 1325,
+      "time": "2310"
+    },
     {
       "tripId": "VHJpcDoxOjIzODUwNzgx",
       "line": "G44",
@@ -35,13 +42,6 @@
       "stop": "Budapest-Kelenföld",
       "delayMin": 1323,
       "time": "2300"
-    },
-    {
-      "tripId": "VHJpcDoxOjI1MDMzMTUx",
-      "line": "S70",
-      "stop": "Alsógöd",
-      "delayMin": 1322,
-      "time": "2230"
     }
   ]
 }

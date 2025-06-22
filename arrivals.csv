@@ -96,3 +96,8 @@ date;time;tripId;shortName;lineName;stopName;plannedArrival;actualArrival;delayM
 2025-06-22;2300;VHJpcDoxOjI0MDM2MTQ1;18618 BAGOLYVONAT személyvonat;Sz BAGOLYVONAT;Szántód;00:52;22:59;0
 2025-06-22;2300;VHJpcDoxOjIwOTQ2NzAw;3610  személyvonat;S60;Kőbánya felső;00:55;22:58;1324
 2025-06-22;2300;VHJpcDoxOjI1MDMzMjE4LjIyMzQxMDk5;2510  személyvonat;S71;Fótfürdő;00:59;23:00;1321
+2025-06-22;2310;VHJpcDoxOjI0NjI5NDAz;5040  személyvonat;Sz 5040;Kőbánya felső;04:05;23:03;1138
+2025-06-22;2310;VHJpcDoxOjIwOTQ0NjA4;3030  személyvonat;S80;Rákos;01:05;23:09;1325
+2025-06-22;2310;VHJpcDoxOjI1MDMzMjE5LjIyMzMzMjkw;2310  személyvonat;S70;Dunakeszi alsó;01:29;23:02;1294
+2025-06-22;2310;VHJpcDoxOjIwOTQ1NDkw;18619 BAGOLYVONAT személyvonat;Sz BAGOLYVONAT;Balatonszentgyörgy;01:59;22:58;1259
+2025-06-22;2310;VHJpcDoxOjIwOTQzOTc3;19779 BAGOLYVONAT személyvonat;Sz BAGOLYVONAT;Székesfehérvár;01:01;23:03;0
