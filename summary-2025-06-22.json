@@ -1,8 +1,8 @@
 {
   "date": "2025-06-22",
-  "totalTrains": 92,
-  "totalDelayMinutes": 7800,
-  "averageDelay": 84.8,
+  "totalTrains": 93,
+  "totalDelayMinutes": 9123,
+  "averageDelay": 98.1,
   "mostDelayedLine": {
     "name": "Sz BAGOLYVONAT",
     "totalMinutes": 2652
@@ -14,6 +14,13 @@
       "stop": "Budapest-Kelenföld",
       "delayMin": 1324,
       "time": "2230"
+    },
+    {
+      "tripId": "VHJpcDoxOjIzODMzNzA5",
+      "line": "S10",
+      "stop": "Budaörs",
+      "delayMin": 1323,
+      "time": "2240"
     },
     {
       "tripId": "VHJpcDoxOjI1MDMzMTUx",
@@ -35,13 +42,6 @@
       "stop": "Aszófő",
       "delayMin": 1320,
       "time": "2220"
-    },
-    {
-      "tripId": "VHJpcDoxOjI1MTU5NTU3",
-      "line": "S80",
-      "stop": "Kőbánya felső",
-      "delayMin": 1315,
-      "time": "2200"
     }
   ]
 }
