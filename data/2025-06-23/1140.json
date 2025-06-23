@@ -1,0 +1,6530 @@
+[
+  {
+    "vehicleId": "1:945514150222",
+    "lat": 47.6820412,
+    "lon": 17.6349392,
+    "speed": 0,
+    "heading": 242,
+    "label": "",
+    "lastUpdated": 1750678752,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Győr-Gyárváros"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDczOTgx",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "4945  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#335;</span>",
+      "route": {
+        "longName": "S10",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504700039",
+    "lat": 47.6748085,
+    "lon": 18.3214798,
+    "speed": 39,
+    "heading": 324,
+    "label": "",
+    "lastUpdated": 1750678706,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 50400,
+      "stop": {
+        "name": "Győr"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIxMTY5NTAy",
+      "tripHeadsign": "Wien Hbf",
+      "tripShortName": "144 CSÁRDÁS EuroCity",
+      "routeShortName": "<span class=\"MNR2007\">&#467;</span>",
+      "route": {
+        "longName": "EC ADVENT/CSÁRDÁS/LEHÁR/LISZT FERENC/SEMMELWEIS",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504313411",
+    "lat": 48.0971298,
+    "lon": 20.8338509,
+    "speed": 26,
+    "heading": 131,
+    "label": "",
+    "lastUpdated": 1750678792,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49380,
+      "stop": {
+        "name": "Felsőzsolca"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMzY2NjEy",
+      "tripHeadsign": "Nyíregyháza",
+      "tripShortName": "5114  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 5112/5113/5114/5115/5116/5117/5118/5122/5124/5125/5127/5133/5134/5135/5136/5138/5139/5144/5145/5146/5147/5169",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501171776",
+    "lat": 47.6399918,
+    "lon": 17.6171494,
+    "speed": 13,
+    "heading": 41,
+    "label": "",
+    "lastUpdated": 1750678805,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Győrszabadhegy"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzODc0",
+      "tripHeadsign": "Győr",
+      "tripShortName": "9225  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 19261/9210/9211/9212/9213/9214/9215/9216/9217/9218/9219/9221/9222/9223/9224/9225/9226/9227/9229/9236/9238/9239/9248",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915506300143",
+    "lat": 47.7233009,
+    "lon": 20.0786591,
+    "speed": 24,
+    "heading": 266,
+    "label": "",
+    "lastUpdated": 1750678786,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 50040,
+      "stop": {
+        "name": "Hatvan"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzODMzNzQ0",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "652 TOKAJ InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC TOKAJ",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:505580054144",
+    "lat": 47.5598602,
+    "lon": 19.8006001,
+    "speed": 19,
+    "heading": 137,
+    "label": "",
+    "lastUpdated": 1750678305,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48960,
+      "stop": {
+        "name": "Jászberény"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjY4NTM0",
+      "tripHeadsign": "Szolnok",
+      "tripShortName": "5744  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#379;</span>",
+      "route": {
+        "longName": "S820",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504310920",
+    "lat": 48.1546898,
+    "lon": 21.9909191,
+    "speed": 21,
+    "heading": 225,
+    "label": "",
+    "lastUpdated": 1750678709,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Gégény"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NDQxNDc0",
+      "tripHeadsign": "Püspökladány",
+      "tripShortName": "6235  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 6213/6235/6256",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514260186",
+    "lat": 47.2614288,
+    "lon": 17.1520691,
+    "speed": 0,
+    "heading": 300,
+    "label": "",
+    "lastUpdated": 1750678772,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48540,
+      "stop": {
+        "name": "Celldömölk"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDczODQ0",
+      "tripHeadsign": "Győr",
+      "tripShortName": "9604 HELIKON InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR HELIKON",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150350",
+    "lat": 47.418251,
+    "lon": 19.2453709,
+    "speed": 17,
+    "heading": 322,
+    "label": "",
+    "lastUpdated": 1750678786,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48840,
+      "stop": {
+        "name": "Ferihegy"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMDEzMzM1",
+      "tripHeadsign": "Budapest-Nyugati",
+      "tripShortName": "2835  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#384;</span>",
+      "route": {
+        "longName": "Z50",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151030",
+    "lat": 47.5001793,
+    "lon": 19.1580601,
+    "speed": 22,
+    "heading": 348,
+    "label": "",
+    "lastUpdated": 1750678726,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Újpalota"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjY4NDQy",
+      "tripHeadsign": "Pilisvörösvár",
+      "tripShortName": "3264  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#446;</span>",
+      "route": {
+        "longName": "S76",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173905",
+    "lat": 47.637619,
+    "lon": 18.0524101,
+    "speed": 20,
+    "heading": 9,
+    "label": "",
+    "lastUpdated": 1750678546,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Szőny-Déli"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzMTU4",
+      "tripHeadsign": "Komárom",
+      "tripShortName": "34924  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#368;</span>",
+      "route": {
+        "longName": "S150",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172634",
+    "lat": 47.4229507,
+    "lon": 20.1842403,
+    "speed": 16,
+    "heading": 230,
+    "label": "",
+    "lastUpdated": 1750678687,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49500,
+      "stop": {
+        "name": "Jászladány"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0Nzk0",
+      "tripHeadsign": "Szolnok",
+      "tripShortName": "35724  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 35713/35714/35717/35724/35725/35726/35732",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173541",
+    "lat": 47.2241783,
+    "lon": 20.7509308,
+    "speed": 4,
+    "heading": 87,
+    "label": "",
+    "lastUpdated": 1750650574,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 20940,
+      "stop": {
+        "name": "Kisújszállás"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0OTk5NzI0",
+      "tripHeadsign": "Kisújszállás",
+      "tripShortName": "36510  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 36510",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504900126",
+    "lat": 47.4378586,
+    "lon": 19.0359001,
+    "speed": 31,
+    "heading": 154,
+    "label": "",
+    "lastUpdated": 1750678590,
+    "stopRelationship": null,
+    "trip": {
+      "id": "VHJpcDoxOjI0ODkyMzgwLjIyMjA2MzU2",
+      "tripHeadsign": "Pécs",
+      "tripShortName": "814 MECSEK InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC MECSEK",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504800029",
+    "lat": 47.3740807,
+    "lon": 21.2720509,
+    "speed": 33,
+    "heading": 59,
+    "label": "",
+    "lastUpdated": 1750678525,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Hajdúszoboszló"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMDEzMTYx",
+      "tripHeadsign": "Nyíregyháza",
+      "tripShortName": "604 NYÍRSÉG InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC NYÍRSÉG/NYÍRSÉG - KRASZNA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501170018",
+    "lat": 46.064991,
+    "lon": 18.2188206,
+    "speed": 11,
+    "heading": 78,
+    "label": "",
+    "lastUpdated": 1750658442,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 28740,
+      "stop": {
+        "name": "Pécs"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0ODE0",
+      "tripHeadsign": "Pécs",
+      "tripShortName": "8072  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 8070/8072/8091",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:505580050076",
+    "lat": 47.9461517,
+    "lon": 21.7050495,
+    "speed": 0,
+    "heading": 155,
+    "label": "",
+    "lastUpdated": 1750662931,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 33300,
+      "stop": {
+        "name": "Nyíregyháza"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzMDA4",
+      "tripHeadsign": "Nyíregyháza",
+      "tripShortName": "5120  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 15121/15130/5110/5111/5120/5123/5128/5129/5140/5158",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514465140",
+    "lat": 47.5160408,
+    "lon": 17.1792908,
+    "speed": 15,
+    "heading": 50,
+    "label": "",
+    "lastUpdated": 1750678767,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48780,
+      "stop": {
+        "name": "Szil-Sopronnémeti"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MzI1NzU4",
+      "tripHeadsign": "Csorna",
+      "tripShortName": "39815  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 39814/39815/39816/39820/39821/39823",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514260319",
+    "lat": 45.9532394,
+    "lon": 17.4368401,
+    "speed": 15,
+    "heading": 275,
+    "label": "",
+    "lastUpdated": 1750678308,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Péterhida-Komlósd"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1MTUy",
+      "tripHeadsign": "Szombathely",
+      "tripShortName": "8995 PANNÓNIA InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR PANNÓNIA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514355052",
+    "lat": 47.3891296,
+    "lon": 16.7526207,
+    "speed": 0,
+    "heading": 209,
+    "label": "",
+    "lastUpdated": 1750678767,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Bük"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODk1MDAxLjIyMjI2MjM3",
+      "tripHeadsign": "Szentgotthárd",
+      "tripShortName": "9184  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 9150/9151/9156/9160/9161/9162/9163/9167/9168/9169/9170/9171/9173/9174/9175/9176/9177/9184/9185/9186/9193/9196",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514155007",
+    "lat": 47.6863518,
+    "lon": 17.5482597,
+    "speed": 32,
+    "heading": 129,
+    "label": "",
+    "lastUpdated": 1750658668,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 29460,
+      "stop": {
+        "name": "Győr"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzOTY3",
+      "tripHeadsign": "Győr",
+      "tripShortName": "9437  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 19418/19421/19422/19423/19447/9412/9414/9416/9417/9418/9419/9420/9425/9427/9431/9434/9437/9438/9441/9442/9443/9445/9448/9456/9458/9467",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150602",
+    "lat": 47.4049911,
+    "lon": 19.0161095,
+    "speed": 16,
+    "heading": 239,
+    "label": "",
+    "lastUpdated": 1750678706,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Barosstelep"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1NDc0",
+      "tripHeadsign": "Százhalombatta",
+      "tripShortName": "4344  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#358;</span>",
+      "route": {
+        "longName": "S40",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173707",
+    "lat": 47.858181,
+    "lon": 21.9405899,
+    "speed": 8,
+    "heading": 67,
+    "label": "",
+    "lastUpdated": 1750678124,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Máriapócs"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0ODc3",
+      "tripHeadsign": "Mátészalka",
+      "tripShortName": "36114  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 36111/36113/36114",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150099",
+    "lat": 46.9240112,
+    "lon": 18.0991192,
+    "speed": 0,
+    "heading": 238,
+    "label": "",
+    "lastUpdated": 1750678772,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Szabadifürdő"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDczODM4",
+      "tripHeadsign": "Balatonszentgyörgy",
+      "tripShortName": "18504 DÉLI -> PARTI InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR DÉLI -> PARTI/DÉLI <- PARTI/KATICA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:925504183243",
+    "lat": 46.8686485,
+    "lon": 17.6804104,
+    "speed": 16,
+    "heading": 238,
+    "label": "",
+    "lastUpdated": 1750678669,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49020,
+      "stop": {
+        "name": "Balatonszepezd"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ2MTcw",
+      "tripHeadsign": "Tapolca",
+      "tripShortName": "19704 KÉK HULLÁM InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BALATON/KÉK HULLÁM/TÓPART",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514160386",
+    "lat": 47.8168793,
+    "lon": 22.0894394,
+    "speed": 11,
+    "heading": 219,
+    "label": "",
+    "lastUpdated": 1750678669,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Nyírbogát"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0Mzc1",
+      "tripHeadsign": "Debrecen",
+      "tripShortName": "6325  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 16336/16338/6310/6312/6313/6314/6315/6316/6318/6319/6322/6323/6324/6325/6328/6329/6336/6338/6339/6347",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150400",
+    "lat": 47.6449203,
+    "lon": 19.4751701,
+    "speed": 28,
+    "heading": 32,
+    "label": "",
+    "lastUpdated": 1750678767,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Aszód"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NzE0MjY0",
+      "tripHeadsign": "Eger",
+      "tripShortName": "554 AGRIA InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#542;</span>",
+      "route": {
+        "longName": "IR87",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173004",
+    "lat": 47.9577904,
+    "lon": 22.3129292,
+    "speed": 9,
+    "heading": 30,
+    "label": "",
+    "lastUpdated": 1750678794,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49500,
+      "stop": {
+        "name": "Ópályi"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1NDU4",
+      "tripHeadsign": "Vásárosnamény",
+      "tripShortName": "36844  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 36811/36819/36822/36823/36824/36825/36827/36828/36844/36846",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504313668",
+    "lat": 47.6877708,
+    "lon": 19.9441605,
+    "speed": 25,
+    "heading": 80,
+    "label": "",
+    "lastUpdated": 1750678347,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 50280,
+      "stop": {
+        "name": "Mezőkövesd"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwNzcxODM4",
+      "tripHeadsign": "Kosice",
+      "tripShortName": "188 HERNÁD - ZEMPLÉN InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BORSOD/HERNÁD/HERNÁD - ZEMPLÉN",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514355029",
+    "lat": 47.2369118,
+    "lon": 16.6331196,
+    "speed": 8,
+    "heading": 342,
+    "label": "",
+    "lastUpdated": 1750656496,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 26580,
+      "stop": {
+        "name": "Szombathely"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzOTA2",
+      "tripHeadsign": "Szombathely",
+      "tripShortName": "9127  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 9110/9111/9112/9113/9114/9115/9116/9117/9118/9119/9121/9123/9124/9126/9127/9128/9133/9136/9138",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172964",
+    "lat": 47.7624893,
+    "lon": 18.5406704,
+    "speed": 3,
+    "heading": 70,
+    "label": "",
+    "lastUpdated": 1750678766,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Nyergesújfalu felső"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MjQ4NDky",
+      "tripHeadsign": "Esztergom",
+      "tripShortName": "32935  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#543;</span>",
+      "route": {
+        "longName": "S74",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173285",
+    "lat": 46.8666382,
+    "lon": 20.5690708,
+    "speed": 12,
+    "heading": 13,
+    "label": "",
+    "lastUpdated": 1750678465,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Halászlak"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0MDIzNDcy",
+      "tripHeadsign": "Mezőtúr",
+      "tripShortName": "37315  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 37310/37311/37312/37314/37315/37317/37318/37319/37320/37322/37323/37324/37325/37326/37327/37329/37351",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504321604",
+    "lat": 47.5978394,
+    "lon": 19.7475109,
+    "speed": 16,
+    "heading": 316,
+    "label": "",
+    "lastUpdated": 1750678631,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49560,
+      "stop": {
+        "name": "Hatvan"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MTU5NTc4",
+      "tripHeadsign": "Hatvan",
+      "tripShortName": "5735  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#379;</span>",
+      "route": {
+        "longName": "S820",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150511",
+    "lat": 47.3794403,
+    "lon": 18.9205704,
+    "speed": 24,
+    "heading": 256,
+    "label": "",
+    "lastUpdated": 1750678804,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48840,
+      "stop": {
+        "name": "Érd alsó"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjY3Nzk4",
+      "tripHeadsign": "Tárnok",
+      "tripShortName": "3884  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#357;</span>",
+      "route": {
+        "longName": "S36",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150012",
+    "lat": 47.7512589,
+    "lon": 20.4148598,
+    "speed": 0,
+    "heading": 252,
+    "label": "",
+    "lastUpdated": 1750678799,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48360,
+      "stop": {
+        "name": "Füzesabony"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0NzQ4",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "555 AGRIA InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#542;</span>",
+      "route": {
+        "longName": "IR87",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504311910",
+    "lat": 47.1105309,
+    "lon": 17.1745796,
+    "speed": 17,
+    "heading": 144,
+    "label": "",
+    "lastUpdated": 1750678727,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48840,
+      "stop": {
+        "name": "Ukk"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDgzMTU4",
+      "tripHeadsign": "Zalaegerszeg",
+      "tripShortName": "1954 GÖCSEJ sebesvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#482;</span>",
+      "route": {
+        "longName": "S GÖCSEJ",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504313395",
+    "lat": 47.1221809,
+    "lon": 17.9240704,
+    "speed": 21,
+    "heading": 82,
+    "label": "",
+    "lastUpdated": 1750678630,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49680,
+      "stop": {
+        "name": "Pétfürdő"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNjI2MzQyLjIxMjAwMzA0",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "955 GÖCSEJ InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC GÖCSEJ",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150339",
+    "lat": 47.4683113,
+    "lon": 19.0768909,
+    "speed": 21,
+    "heading": 272,
+    "label": "",
+    "lastUpdated": 1750678615,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Budapest-Kelenföld"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0MTEzNjY1",
+      "tripHeadsign": "Székesfehérvár",
+      "tripShortName": "3544  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#390;</span>",
+      "route": {
+        "longName": "G43",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150610",
+    "lat": 47.7428513,
+    "lon": 18.71735,
+    "speed": 0,
+    "heading": 237,
+    "label": "",
+    "lastUpdated": 1750678801,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Esztergom-Kertváros"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDMzMjA2",
+      "tripHeadsign": "Angyalföld",
+      "tripShortName": "2085  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#417;</span>",
+      "route": {
+        "longName": "Z72",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514355060",
+    "lat": 46.9647293,
+    "lon": 16.2825909,
+    "speed": 0,
+    "heading": 69,
+    "label": "",
+    "lastUpdated": 1750678750,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Haris"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzOTA3",
+      "tripHeadsign": "Szombathely",
+      "tripShortName": "9115  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 9110/9111/9112/9113/9114/9115/9116/9117/9118/9119/9121/9123/9124/9126/9127/9128/9133/9136/9138",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172196",
+    "lat": 47.682579,
+    "lon": 17.6364307,
+    "speed": 9,
+    "heading": 241,
+    "label": "",
+    "lastUpdated": 1750664540,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 34980,
+      "stop": {
+        "name": "Győr"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0NDE1",
+      "tripHeadsign": "Győr",
+      "tripShortName": "39517  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 39511/39512/39513/39514/39515/39516/39517/39518/39522/39523/39524/39525/39526/39527",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504311589",
+    "lat": 47.2325783,
+    "lon": 19.6183491,
+    "speed": 16,
+    "heading": 120,
+    "label": "",
+    "lastUpdated": 1750678752,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49560,
+      "stop": {
+        "name": "Cegléd"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDgzMDY4",
+      "tripHeadsign": "Szeged",
+      "tripShortName": "724 NAPFÉNY InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC NAPFÉNY",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172683",
+    "lat": 45.8652611,
+    "lon": 18.4707298,
+    "speed": 21,
+    "heading": 162,
+    "label": "",
+    "lastUpdated": 1750678748,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Magyarbóly"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIxMTU3NjM5",
+      "tripHeadsign": "Beli Manastir",
+      "tripShortName": "8124  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 8110/8111/8112/8113/8115/8116/8117/8118/8119/8121/8122/8123/8124/8126",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150228",
+    "lat": 46.6955795,
+    "lon": 19.8407001,
+    "speed": 27,
+    "heading": 167,
+    "label": "",
+    "lastUpdated": 1750678697,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49740,
+      "stop": {
+        "name": "Kistelek"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDgzMDY3",
+      "tripHeadsign": "Szeged",
+      "tripShortName": "714 ALFÖLD Expresszvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#472;</span>",
+      "route": {
+        "longName": "Ex ALFÖLD",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172907",
+    "lat": 48.2999001,
+    "lon": 20.35252,
+    "speed": 0,
+    "heading": 280,
+    "label": "",
+    "lastUpdated": 1750678545,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48600,
+      "stop": {
+        "name": "Bánréve"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1NDI5",
+      "tripHeadsign": "Ózd",
+      "tripShortName": "5424  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 5410/5413/5414/5415/5416/5417/5418/5419/5421/5422/5424/5425/5433/5436/5437/5438",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504313353",
+    "lat": 47.1139717,
+    "lon": 18.4044304,
+    "speed": 22,
+    "heading": 44,
+    "label": "",
+    "lastUpdated": 1750678447,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Székesfehérvár"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzNzQ0",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "19725 VÍZIPÓK sebesvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#482;</span>",
+      "route": {
+        "longName": "S VÍZIPÓK",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150053",
+    "lat": 47.4297218,
+    "lon": 19.3941593,
+    "speed": 0,
+    "heading": 273,
+    "label": "",
+    "lastUpdated": 1750678804,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48960,
+      "stop": {
+        "name": "Gyömrő"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NzE0MTkx",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "3475  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#362;</span>",
+      "route": {
+        "longName": "S60",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945504140175",
+    "lat": 47.9201088,
+    "lon": 20.8131409,
+    "speed": 29,
+    "heading": 211,
+    "label": "",
+    "lastUpdated": 1750678725,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Csincse"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMzk1MDI0",
+      "tripHeadsign": "Füzesabony",
+      "tripShortName": "5147  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 5112/5113/5114/5115/5116/5117/5118/5122/5124/5125/5127/5133/5134/5135/5136/5138/5139/5144/5145/5146/5147/5169",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172865",
+    "lat": 47.9463615,
+    "lon": 22.4012394,
+    "speed": 0,
+    "heading": 105,
+    "label": "",
+    "lastUpdated": 1750678769,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Kocsord alsó"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1MDcy",
+      "tripHeadsign": "Fehérgyarmat",
+      "tripShortName": "32434  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 32413/32417/32419/32434",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150875",
+    "lat": 47.6101608,
+    "lon": 18.9135094,
+    "speed": 0,
+    "heading": 319,
+    "label": "",
+    "lastUpdated": 1750678803,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49020,
+      "stop": {
+        "name": "Vörösvárbánya"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjY4NDQw",
+      "tripHeadsign": "Pilisvörösvár",
+      "tripShortName": "3254  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#446;</span>",
+      "route": {
+        "longName": "S76",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150194",
+    "lat": 47.4921112,
+    "lon": 19.1332397,
+    "speed": 9,
+    "heading": 76,
+    "label": "",
+    "lastUpdated": 1750678803,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 50100,
+      "stop": {
+        "name": "Gödöllő"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0NzU5",
+      "tripHeadsign": "Gyöngyös",
+      "tripShortName": "3044 MÁTRA InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#541;</span>",
+      "route": {
+        "longName": "IR85",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173723",
+    "lat": 46.525631,
+    "lon": 21.1749191,
+    "speed": 15,
+    "heading": 190,
+    "label": "",
+    "lastUpdated": 1750678546,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49380,
+      "stop": {
+        "name": "Bánkút"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ2MDM2",
+      "tripHeadsign": "Mezőhegyes",
+      "tripShortName": "37014  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 37011/37012/37013/37014/37015/37016/37017/37018/37019/37020/37022/37023/37024/37025/37026/37027/37034/37036/37039",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504312876",
+    "lat": 48.0985298,
+    "lon": 20.8103809,
+    "speed": 6,
+    "heading": 258,
+    "label": "",
+    "lastUpdated": 1750652404,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 22800,
+      "stop": {
+        "name": "Miskolc-Tiszai"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzMDEw",
+      "tripHeadsign": "Miskolc-Tiszai",
+      "tripShortName": "5129  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 15121/15130/5110/5111/5120/5123/5128/5129/5140/5158",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504311662",
+    "lat": 47.2945404,
+    "lon": 21.2503204,
+    "speed": 23,
+    "heading": 121,
+    "label": "",
+    "lastUpdated": 1750678786,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49560,
+      "stop": {
+        "name": "Sáp"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDgyOTUy",
+      "tripHeadsign": "Episcopia Bihor",
+      "tripShortName": "363  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 358/359/360/361/362/363/364/365/368/369",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514260152",
+    "lat": 47.5581894,
+    "lon": 17.5809402,
+    "speed": 18,
+    "heading": 200,
+    "label": "",
+    "lastUpdated": 1750678514,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49020,
+      "stop": {
+        "name": "Gyömöre-Tét"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDczODQz",
+      "tripHeadsign": "Keszthely",
+      "tripShortName": "9695 HELIKON InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR HELIKON",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173863",
+    "lat": 47.7813683,
+    "lon": 19.6679707,
+    "speed": 18,
+    "heading": 180,
+    "label": "",
+    "lastUpdated": 1750678687,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48900,
+      "stop": {
+        "name": "Selyp"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNzY4MDI1",
+      "tripHeadsign": "Hatvan",
+      "tripShortName": "5825  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 5810/5811/5812/5813/5814/5815/5816/5818/5819/5820/5821/5822/5823/5824/5825/5826/5827/5828/5829/5831/5832/5833/5834/5835/5836/5837/5838/5839/5843/5846/5847/5848",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504322131",
+    "lat": 47.9329796,
+    "lon": 21.7141094,
+    "speed": 17,
+    "heading": 161,
+    "label": "",
+    "lastUpdated": 1750678792,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49740,
+      "stop": {
+        "name": "Újfehértó"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NDQxNDcz",
+      "tripHeadsign": "Debrecen",
+      "tripShortName": "6225  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 6214/6216/6219/6223/6225/6227/6229/6232/6233/6234/6247/6249/6259/6266/6276",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150285",
+    "lat": 47.8238182,
+    "lon": 19.0299492,
+    "speed": 0,
+    "heading": 263,
+    "label": "",
+    "lastUpdated": 1750678801,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Verőce"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDAyNTcx",
+      "tripHeadsign": "Szob",
+      "tripShortName": "2344  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#386;</span>",
+      "route": {
+        "longName": "Z70",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150297",
+    "lat": 47.4980011,
+    "lon": 19.0251293,
+    "speed": 5,
+    "heading": 340,
+    "label": "",
+    "lastUpdated": 1750661169,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 31440,
+      "stop": {
+        "name": "Budapest-Déli"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjYwOTEzLjIyMDYzNTQ2",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "4277  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#525;</span>",
+      "route": {
+        "longName": "Z42",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151055",
+    "lat": 47.5657196,
+    "lon": 19.0524998,
+    "speed": 16,
+    "heading": 99,
+    "label": "",
+    "lastUpdated": 1750678787,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Újpest"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjYyMTEx",
+      "tripHeadsign": "Rákos",
+      "tripShortName": "3235  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#446;</span>",
+      "route": {
+        "longName": "S76",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150776",
+    "lat": 47.4420586,
+    "lon": 19.3295898,
+    "speed": 27,
+    "heading": 266,
+    "label": "",
+    "lastUpdated": 1750678690,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49800,
+      "stop": {
+        "name": "Budapest-Keleti"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MTYyNjc5",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "747 BÉKÉS InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR BÉKÉS",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150024",
+    "lat": 46.8690796,
+    "lon": 17.9145298,
+    "speed": 27,
+    "heading": 56,
+    "label": "",
+    "lastUpdated": 1750678752,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Zamárdi"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTU0NTc5",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "18505 DÉLI <- PARTI InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR DÉLI -> PARTI/DÉLI <- PARTI/KATICA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173186",
+    "lat": 48.466259,
+    "lon": 20.6922894,
+    "speed": 10,
+    "heading": 158,
+    "label": "",
+    "lastUpdated": 1750678706,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49380,
+      "stop": {
+        "name": "Szalonna"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1ODEz",
+      "tripHeadsign": "Miskolc-Tiszai",
+      "tripShortName": "35425  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 35413/35414/35416/35417/35422/35423/35424/35425/35426/35429",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504312173",
+    "lat": 47.1802788,
+    "lon": 20.1771393,
+    "speed": 7,
+    "heading": 221,
+    "label": "",
+    "lastUpdated": 1750648658,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 19020,
+      "stop": {
+        "name": "Szolnok"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ2NjQx",
+      "tripHeadsign": "Szolnok",
+      "tripShortName": "7429  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 7429/7433/7436/7438/7439",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151147",
+    "lat": 47.1829491,
+    "lon": 19.8057804,
+    "speed": 7,
+    "heading": 290,
+    "label": "",
+    "lastUpdated": 1750678795,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 51000,
+      "stop": {
+        "name": "Ferihegy"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMDEzMzc1",
+      "tripHeadsign": "Budapest-Nyugati",
+      "tripShortName": "6107 CÍVIS InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR CÍVIS",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514465165",
+    "lat": 47.3362389,
+    "lon": 16.5823193,
+    "speed": 17,
+    "heading": 168,
+    "label": "",
+    "lastUpdated": 1750678767,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Lukácsháza alsó"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1Mjk1Njg3",
+      "tripHeadsign": "Szombathely",
+      "tripShortName": "39913  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 39910/39911/39912/39913/39914/39915/39916/39917/39918/39919/39921/39922/39923/39924/39925/39926/39927/39928/39929/39931/39932/39933/39934/39935/39936/39937/39938/39942/39943/39944/39946/39947/39948/39953",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173129",
+    "lat": 47.7518005,
+    "lon": 20.4149303,
+    "speed": 0,
+    "heading": 250,
+    "label": "",
+    "lastUpdated": 1750678748,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49440,
+      "stop": {
+        "name": "Mezőtárkány"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0OTk0MDY0",
+      "tripHeadsign": "Debrecen",
+      "tripShortName": "6635  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 6621/6622/6623/6626/6628/6632/6634/6635/6639/6643",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501171818",
+    "lat": 47.9338989,
+    "lon": 19.0472298,
+    "speed": 13,
+    "heading": 174,
+    "label": "",
+    "lastUpdated": 1750678487,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Nógrád"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzNjM5",
+      "tripHeadsign": "Vác",
+      "tripShortName": "32235  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#376;</span>",
+      "route": {
+        "longName": "S750",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150087",
+    "lat": 47.1839294,
+    "lon": 19.8025494,
+    "speed": 11,
+    "heading": 110,
+    "label": "",
+    "lastUpdated": 1750677256,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 47520,
+      "stop": {
+        "name": "Cegléd"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMDEzMDg2",
+      "tripHeadsign": "Cegléd",
+      "tripShortName": "2834  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#384;</span>",
+      "route": {
+        "longName": "Z50",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150095",
+    "lat": 47.6954613,
+    "lon": 19.1399708,
+    "speed": 33,
+    "heading": 11,
+    "label": "",
+    "lastUpdated": 1750678801,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48960,
+      "stop": {
+        "name": "Göd"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDA2Nzc5",
+      "tripHeadsign": "Vác",
+      "tripShortName": "2474  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#363;</span>",
+      "route": {
+        "longName": "S70",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150891",
+    "lat": 47.442379,
+    "lon": 19.0330105,
+    "speed": 19,
+    "heading": 335,
+    "label": "",
+    "lastUpdated": 1750678627,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Budapest-Kelenföld"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1MDUy",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "4535  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#383;</span>",
+      "route": {
+        "longName": "Z30",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504312264",
+    "lat": 47.1754913,
+    "lon": 18.5326195,
+    "speed": 33,
+    "heading": 263,
+    "label": "",
+    "lastUpdated": 1750678747,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49500,
+      "stop": {
+        "name": "Székesfehérvár"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNzI3NzQ3",
+      "tripHeadsign": "Ajka",
+      "tripShortName": "964 GÖCSEJ InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC GÖCSEJ",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514160345",
+    "lat": 46.9045601,
+    "lon": 20.0492401,
+    "speed": 9,
+    "heading": 43,
+    "label": "",
+    "lastUpdated": 1750678695,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49560,
+      "stop": {
+        "name": "Tiszakécske"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MTYyNzQ1",
+      "tripHeadsign": "Szolnok",
+      "tripShortName": "37124  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#370;</span>",
+      "route": {
+        "longName": "S220",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504322412",
+    "lat": 47.6473999,
+    "lon": 19.4937401,
+    "speed": 0,
+    "heading": 112,
+    "label": "",
+    "lastUpdated": 1750659557,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 30000,
+      "stop": {
+        "name": "Aszód"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNzg3NDUx",
+      "tripHeadsign": "Aszód",
+      "tripShortName": "33417  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#508;</span>",
+      "route": {
+        "longName": "S77",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172097",
+    "lat": 46.9362183,
+    "lon": 20.8146191,
+    "speed": 15,
+    "heading": 334,
+    "label": "",
+    "lastUpdated": 1750677824,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48900,
+      "stop": {
+        "name": "Dévaványa"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Mjc0ODg1",
+      "tripHeadsign": "Vésztő",
+      "tripShortName": "37515  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 37510/37511/37512/37513/37514/37515/37516/37517/37519/37520/37523/37524/37526/37527",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514260293",
+    "lat": 47.1031494,
+    "lon": 18.4998093,
+    "speed": 0,
+    "heading": 15,
+    "label": "",
+    "lastUpdated": 1750678732,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Belsőbáránd"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0MDQ0",
+      "tripHeadsign": "Székesfehérvár",
+      "tripShortName": "8305 GEMENC InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR GEMENC",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915506300119",
+    "lat": 46.8631592,
+    "lon": 16.6759491,
+    "speed": 27,
+    "heading": 68,
+    "label": "",
+    "lastUpdated": 1750678802,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49020,
+      "stop": {
+        "name": "Zalaegerszeg"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MzI1Nzk5",
+      "tripHeadsign": "Ajka",
+      "tripShortName": "247 CITADELLA InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC CITADELLA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504311183",
+    "lat": 47.3734398,
+    "lon": 18.8909607,
+    "speed": 30,
+    "heading": 55,
+    "label": "",
+    "lastUpdated": 1750678752,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49860,
+      "stop": {
+        "name": "Budapest-Kelenföld"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNjgyNTcwLjIxMTk0MTIz",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "905 BAKONY InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BAKONY",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173145",
+    "lat": 46.0571213,
+    "lon": 18.1361904,
+    "speed": 21,
+    "heading": 254,
+    "label": "",
+    "lastUpdated": 1750678465,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49500,
+      "stop": {
+        "name": "Szentlőrinc"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NzE0MzQz",
+      "tripHeadsign": "Barcs",
+      "tripShortName": "8955  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 18955/8952/8954/8955/8956/8957/8958/8959/8963",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504312041",
+    "lat": 47.1882401,
+    "lon": 20.1972103,
+    "speed": 17,
+    "heading": 85,
+    "label": "",
+    "lastUpdated": 1750678727,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49860,
+      "stop": {
+        "name": "Kétpó"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0NTg2",
+      "tripHeadsign": "Békéscsaba",
+      "tripShortName": "7404 BÉKÉS InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BÉGA/BÉKÉS/ISTER/KÖRÖS/MAROS/ZARÁND",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151121",
+    "lat": 47.4834213,
+    "lon": 19.1267204,
+    "speed": 16,
+    "heading": 152,
+    "label": "",
+    "lastUpdated": 1750678666,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Kőbánya-Kispest"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMDEzMTY0",
+      "tripHeadsign": "Debrecen",
+      "tripShortName": "6094 CÍVIS InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR CÍVIS",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173400",
+    "lat": 48.3027496,
+    "lon": 20.7479801,
+    "speed": 11,
+    "heading": 348,
+    "label": "",
+    "lastUpdated": 1750678627,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Szendrőlád"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1ODIy",
+      "tripHeadsign": "Tornanádaska",
+      "tripShortName": "35424  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 35413/35414/35416/35417/35422/35423/35424/35425/35426/35429",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150099",
+    "lat": 47.6820908,
+    "lon": 17.6359692,
+    "speed": 4,
+    "heading": 242,
+    "label": "",
+    "lastUpdated": 1750663383,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 33540,
+      "stop": {
+        "name": "Győr"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIyNzEzNjUz",
+      "tripHeadsign": "Győr",
+      "tripShortName": "4922  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#335;</span>",
+      "route": {
+        "longName": "S10",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150061",
+    "lat": 47.3212395,
+    "lon": 19.9622307,
+    "speed": 21,
+    "heading": 111,
+    "label": "",
+    "lastUpdated": 1750678804,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48480,
+      "stop": {
+        "name": "Tápiógyörgye"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0NjE1",
+      "tripHeadsign": "Szolnok",
+      "tripShortName": "3334  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#385;</span>",
+      "route": {
+        "longName": "Z60",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150123",
+    "lat": 47.4544411,
+    "lon": 19.0202408,
+    "speed": 11,
+    "heading": 198,
+    "label": "",
+    "lastUpdated": 1750678772,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48960,
+      "stop": {
+        "name": "Budaörs"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIyNzEzNjYx",
+      "tripHeadsign": "Győr",
+      "tripShortName": "4944  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#335;</span>",
+      "route": {
+        "longName": "S10",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514260202",
+    "lat": 47.1208,
+    "lon": 18.5853596,
+    "speed": 11,
+    "heading": 94,
+    "label": "",
+    "lastUpdated": 1750678731,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Seregélyes-Szőlőhegy"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzMjI0",
+      "tripHeadsign": "Pusztaszabolcs",
+      "tripShortName": "34125  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#374;</span>",
+      "route": {
+        "longName": "S440",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:914304303268",
+    "lat": 47.1271782,
+    "lon": 17.3443298,
+    "speed": 28,
+    "heading": 99,
+    "label": "",
+    "lastUpdated": 1750678605,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Devecser"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDgyOTgz",
+      "tripHeadsign": "Ajka",
+      "tripShortName": "1915 BAKONY sebesvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#482;</span>",
+      "route": {
+        "longName": "S BAKONY",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:505580558078",
+    "lat": 46.2690086,
+    "lon": 18.1065006,
+    "speed": 23,
+    "heading": 6,
+    "label": "",
+    "lastUpdated": 1750678690,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Vásárosdombó"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NTM0MDQ1",
+      "tripHeadsign": "Dombóvár",
+      "tripShortName": "8065  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 18050/8051/8052/8053/8054/8055/8056/8057/8058/8059/8060/8061/8062/8063/8064/8065/8066/8067/8068",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501274133",
+    "lat": 48.0395012,
+    "lon": 21.5555,
+    "speed": 0,
+    "heading": 135,
+    "label": "",
+    "lastUpdated": 1750647601,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 17100,
+      "stop": {
+        "name": "Görögszállás"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzNjE5",
+      "tripHeadsign": "Görögszállás",
+      "tripShortName": "36410  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 36410/36412/36413/36415/36423/36424/36432/36438/36441/36443",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504715003",
+    "lat": 47.4501991,
+    "lon": 18.9510403,
+    "speed": 29,
+    "heading": 282,
+    "label": "",
+    "lastUpdated": 1750678786,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 50340,
+      "stop": {
+        "name": "Tatabánya"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MjU0NzIw",
+      "tripHeadsign": "Sopron",
+      "tripShortName": "994 SCARBANTIA InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC SCARBANTIA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504800144",
+    "lat": 47.32621,
+    "lon": 21.1106091,
+    "speed": 27,
+    "heading": 261,
+    "label": "",
+    "lastUpdated": 1750678666,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 51540,
+      "stop": {
+        "name": "Szolnok"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMzY2NjE4",
+      "tripHeadsign": "Budapest-Nyugati",
+      "tripShortName": "562 TOKAJ InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC TOKAJ",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172295",
+    "lat": 46.8396111,
+    "lon": 20.6139507,
+    "speed": 16,
+    "heading": 111,
+    "label": "",
+    "lastUpdated": 1750678687,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Csabacsűd felső"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0MDIzNDY2",
+      "tripHeadsign": "Mezőhegyes",
+      "tripShortName": "37314  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 37310/37311/37312/37314/37315/37317/37318/37319/37320/37322/37323/37324/37325/37326/37327/37329/37351",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504311548",
+    "lat": 47.2378197,
+    "lon": 18.6837902,
+    "speed": 33,
+    "heading": 220,
+    "label": "",
+    "lastUpdated": 1750678667,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49800,
+      "stop": {
+        "name": "Székesfehérvár"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ2MTcx",
+      "tripHeadsign": "Tapolca",
+      "tripShortName": "19794 KÉK HULLÁM InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BALATON/KÉK HULLÁM/TÓPART",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501171859",
+    "lat": 45.9949913,
+    "lon": 18.6671295,
+    "speed": 12,
+    "heading": 235,
+    "label": "",
+    "lastUpdated": 1750678305,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Nagynyárád"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQyOTg1",
+      "tripHeadsign": "Villány",
+      "tripShortName": "38825  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 38810/38811/38812/38813/38814/38815/38817/38821/38824/38825/38826/38828",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514260103",
+    "lat": 46.3401413,
+    "lon": 16.8779507,
+    "speed": 23,
+    "heading": 150,
+    "label": "",
+    "lastUpdated": 1750678800,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48060,
+      "stop": {
+        "name": "Gyékényes"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDAyMDA1LjIyMzA4NDM1",
+      "tripHeadsign": "Pécs",
+      "tripShortName": "8904  InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR 8904",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504715011",
+    "lat": 47.500309,
+    "lon": 19.0880909,
+    "speed": 4,
+    "heading": 275,
+    "label": "",
+    "lastUpdated": 1750669004,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 38640,
+      "stop": {
+        "name": "Budapest-Keleti"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MjgyNzMx",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "997 SCARBANTIA InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC SCARBANTIA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173152",
+    "lat": 46.32444,
+    "lon": 20.7508297,
+    "speed": 18,
+    "heading": 295,
+    "label": "",
+    "lastUpdated": 1750678759,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Pitvaros"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0MDIzNDc0",
+      "tripHeadsign": "Mezőtúr",
+      "tripShortName": "37325  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 37310/37311/37312/37314/37315/37317/37318/37319/37320/37322/37323/37324/37325/37326/37327/37329/37351",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151048",
+    "lat": 47.6250801,
+    "lon": 18.8952198,
+    "speed": 16,
+    "heading": 140,
+    "label": "",
+    "lastUpdated": 1750678801,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Szabadságliget"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDMzMjA1",
+      "tripHeadsign": "Angyalföld",
+      "tripShortName": "2075  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#417;</span>",
+      "route": {
+        "longName": "Z72",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173772",
+    "lat": 48.25383,
+    "lon": 22.2195797,
+    "speed": 9,
+    "heading": 322,
+    "label": "",
+    "lastUpdated": 1750678627,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Tornyospálca"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1MDcw",
+      "tripHeadsign": "Záhony",
+      "tripShortName": "36834  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 36810/36812/36815/36816/36817/36818/36829/36830/36833/36834",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150343",
+    "lat": 47.3375206,
+    "lon": 19.44771,
+    "speed": 27,
+    "heading": 122,
+    "label": "",
+    "lastUpdated": 1750678803,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48960,
+      "stop": {
+        "name": "Monor"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMDEzMzEw",
+      "tripHeadsign": "Cegléd",
+      "tripShortName": "2844  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#384;</span>",
+      "route": {
+        "longName": "Z50",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150743",
+    "lat": 47.1747589,
+    "lon": 20.1114597,
+    "speed": 16,
+    "heading": 95,
+    "label": "",
+    "lastUpdated": 1750678786,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49440,
+      "stop": {
+        "name": "Szolnok"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMDEzMTYy",
+      "tripHeadsign": "Debrecen",
+      "tripShortName": "6084 CÍVIS InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR CÍVIS",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173632",
+    "lat": 47.0172691,
+    "lon": 21.15345,
+    "speed": 9,
+    "heading": 43,
+    "label": "",
+    "lastUpdated": 1750678467,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49560,
+      "stop": {
+        "name": "Füzesgyarmatfürdő"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ2Nzc2",
+      "tripHeadsign": "Püspökladány",
+      "tripShortName": "37724  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 37711/37712/37713/37714/37715/37716/37717/37720/37723/37724/37725/37726/37727/37750/37758/37759",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150214",
+    "lat": 46.4929085,
+    "lon": 17.1376095,
+    "speed": 0,
+    "heading": 48,
+    "label": "",
+    "lastUpdated": 1750678789,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48420,
+      "stop": {
+        "name": "Zalaszentjakab"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODUyNTkw",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "855 TÓPART InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BALATON/KÉK HULLÁM/TÓPART",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514250048",
+    "lat": 47.6816788,
+    "lon": 17.6336308,
+    "speed": 9,
+    "heading": 244,
+    "label": "",
+    "lastUpdated": 1750678586,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Abda"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIxNzI2NTIx",
+      "tripHeadsign": "Bruck/Leitha",
+      "tripShortName": "19444  EuroRegio",
+      "routeShortName": "<span class=\"MNR2007\">&#471;</span>",
+      "route": {
+        "longName": "ER 19411/19415/19421/19423/19430/19444/9411/9413/9415/9424/9428/9432/9435/9451/9452/9457/9476/9480/9483/9484/9486/9487/9490",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151212",
+    "lat": 47.4867401,
+    "lon": 19.1912594,
+    "speed": 16,
+    "heading": 95,
+    "label": "",
+    "lastUpdated": 1750678804,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48600,
+      "stop": {
+        "name": "Rákos"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0NTc2",
+      "tripHeadsign": "Sülysáp",
+      "tripShortName": "3474  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#362;</span>",
+      "route": {
+        "longName": "S60",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151147",
+    "lat": 47.1808014,
+    "lon": 20.1769505,
+    "speed": 10,
+    "heading": 221,
+    "label": "",
+    "lastUpdated": 1750653624,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 24060,
+      "stop": {
+        "name": "Szolnok"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ2MzMz",
+      "tripHeadsign": "Szolnok",
+      "tripShortName": "6039  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 6039",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150251",
+    "lat": 47.1794014,
+    "lon": 20.1744099,
+    "speed": 2,
+    "heading": 41,
+    "label": "",
+    "lastUpdated": 1750676309,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 46380,
+      "stop": {
+        "name": "Szolnok"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NzE0MTcy",
+      "tripHeadsign": "Szolnok",
+      "tripShortName": "3324  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#385;</span>",
+      "route": {
+        "longName": "Z60",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:985504782030",
+    "lat": 47.3239708,
+    "lon": 17.8416901,
+    "speed": 8,
+    "heading": 165,
+    "label": "",
+    "lastUpdated": 1750678292,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49020,
+      "stop": {
+        "name": "Zirc"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzNzg3",
+      "tripHeadsign": "Veszprém",
+      "tripShortName": "39524  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 39511/39512/39513/39514/39515/39516/39517/39518/39522/39523/39524/39525/39526/39527",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514160139",
+    "lat": 46.8558807,
+    "lon": 19.9352493,
+    "speed": 11,
+    "heading": 281,
+    "label": "",
+    "lastUpdated": 1750678707,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Nyárjas"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MTYyNzY2",
+      "tripHeadsign": "Kecskemét",
+      "tripShortName": "37125  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#370;</span>",
+      "route": {
+        "longName": "S220",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150244",
+    "lat": 47.5716019,
+    "lon": 19.0237198,
+    "speed": 28,
+    "heading": 286,
+    "label": "",
+    "lastUpdated": 1750678647,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Solymár"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDAyNjQ5",
+      "tripHeadsign": "Esztergom",
+      "tripShortName": "2074  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#417;</span>",
+      "route": {
+        "longName": "Z72",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150269",
+    "lat": 47.4897919,
+    "lon": 19.1242599,
+    "speed": 22,
+    "heading": 254,
+    "label": "",
+    "lastUpdated": 1750678804,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Kőbánya felső"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0NjQz",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "3335  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#385;</span>",
+      "route": {
+        "longName": "Z60",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514155031",
+    "lat": 47.0987701,
+    "lon": 16.6278801,
+    "speed": 28,
+    "heading": 41,
+    "label": "",
+    "lastUpdated": 1750678706,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Ják-Balogunyom"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODk0OTI4",
+      "tripHeadsign": "Sopron",
+      "tripShortName": "9185  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 9150/9151/9156/9160/9161/9162/9163/9167/9168/9169/9170/9171/9173/9174/9175/9176/9177/9184/9185/9186/9193/9196",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:925504183185",
+    "lat": 46.878891,
+    "lon": 17.7169609,
+    "speed": 17,
+    "heading": 75,
+    "label": "",
+    "lastUpdated": 1750678767,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Balatonakali-Dörgicse"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzOTU0",
+      "tripHeadsign": "Balatonfüred",
+      "tripShortName": "19785  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 19771/19773/19774/19775/19776/19777/19778/19782/19783/19784/19785/19786/19787",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514260152",
+    "lat": 47.2613983,
+    "lon": 17.1521091,
+    "speed": 0,
+    "heading": 300,
+    "label": "",
+    "lastUpdated": 1750671589,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 41340,
+      "stop": {
+        "name": "Celldömölk"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDczODUy",
+      "tripHeadsign": "Győr",
+      "tripShortName": "9602 HELIKON InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR HELIKON",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:918061825652",
+    "lat": 47.7185898,
+    "lon": 18.02631,
+    "speed": 44,
+    "heading": 77,
+    "label": "",
+    "lastUpdated": 1750678647,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49020,
+      "stop": {
+        "name": "Komárom"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MjgxNDA1",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "995 SCARBANTIA InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC SCARBANTIA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173210",
+    "lat": 47.9893913,
+    "lon": 20.3299599,
+    "speed": 11,
+    "heading": 281,
+    "label": "",
+    "lastUpdated": 1750678627,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Mónosbél"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzNjU2",
+      "tripHeadsign": "Szilvásvárad",
+      "tripShortName": "35514  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 35512/35513/35514/35515/35516/35517/35522/35523",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504700047",
+    "lat": 48.0818901,
+    "lon": 20.87253,
+    "speed": 17,
+    "heading": 111,
+    "label": "",
+    "lastUpdated": 1750678566,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 50100,
+      "stop": {
+        "name": "Szerencs"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMzYxOTEz",
+      "tripHeadsign": "Budapest-Nyugati",
+      "tripShortName": "564 TOKAJ InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC TOKAJ",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150073",
+    "lat": 47.2530289,
+    "lon": 18.7017403,
+    "speed": 35,
+    "heading": 38,
+    "label": "",
+    "lastUpdated": 1750678804,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48900,
+      "stop": {
+        "name": "Kápolnásnyék"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1MDE0",
+      "tripHeadsign": "Kőbánya-Kispest",
+      "tripShortName": "3545  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#390;</span>",
+      "route": {
+        "longName": "G43",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150990",
+    "lat": 47.4857788,
+    "lon": 19.2201195,
+    "speed": 14,
+    "heading": 271,
+    "label": "",
+    "lastUpdated": 1750678747,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Rákos"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0NzA5",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "3175  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#366;</span>",
+      "route": {
+        "longName": "S80",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151089",
+    "lat": 47.3102112,
+    "lon": 20.9530792,
+    "speed": 31,
+    "heading": 81,
+    "label": "",
+    "lastUpdated": 1750678726,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49680,
+      "stop": {
+        "name": "Püspökladány"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMDEzMzY1",
+      "tripHeadsign": "Debrecen",
+      "tripShortName": "6004 CÍVIS InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR CÍVIS",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150065",
+    "lat": 47.4904518,
+    "lon": 19.0296803,
+    "speed": 11,
+    "heading": 145,
+    "label": "",
+    "lastUpdated": 1750678671,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Budapest-Kelenföld"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODczNTIy",
+      "tripHeadsign": "Nagykanizsa",
+      "tripShortName": "854 TÓPART InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BALATON/KÉK HULLÁM/TÓPART",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151097",
+    "lat": 47.5117683,
+    "lon": 19.0595303,
+    "speed": 4,
+    "heading": 44,
+    "label": "",
+    "lastUpdated": 1750678553,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Zugló"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMDEzMzEx",
+      "tripHeadsign": "Monor",
+      "tripShortName": "2784  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#360;</span>",
+      "route": {
+        "longName": "S50",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514260251",
+    "lat": 47.2613907,
+    "lon": 17.1521397,
+    "speed": 3,
+    "heading": 300,
+    "label": "",
+    "lastUpdated": 1750664108,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 34140,
+      "stop": {
+        "name": "Celldömölk"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDczODUx",
+      "tripHeadsign": "Győr",
+      "tripShortName": "9690 HELIKON InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR HELIKON",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504313486",
+    "lat": 48.2366219,
+    "lon": 22.0968895,
+    "speed": 25,
+    "heading": 21,
+    "label": "",
+    "lastUpdated": 1750678632,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Fényeslitke"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNTMyNzA0",
+      "tripHeadsign": "Záhony",
+      "tripShortName": "6214  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 6214/6216/6219/6223/6225/6227/6229/6232/6233/6234/6247/6249/6259/6266/6276",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150388",
+    "lat": 47.6741982,
+    "lon": 18.3221607,
+    "speed": 37,
+    "heading": 324,
+    "label": "",
+    "lastUpdated": 1750678566,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48780,
+      "stop": {
+        "name": "Almásfüzitő"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIyNzEzNjU5",
+      "tripHeadsign": "Győr",
+      "tripShortName": "4934  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#335;</span>",
+      "route": {
+        "longName": "S10",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945504140134",
+    "lat": 48.21558,
+    "lon": 21.3995991,
+    "speed": 13,
+    "heading": 212,
+    "label": "",
+    "lastUpdated": 1750678766,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49020,
+      "stop": {
+        "name": "Szegi"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1NDM5",
+      "tripHeadsign": "Szerencs",
+      "tripShortName": "5225  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 5210/5211/5212/5213/5214/5217/5218/5219/5222/5223/5225/5226/5228/5231/5232/5236/5241/5245/5258",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172154",
+    "lat": 46.6751213,
+    "lon": 20.2668591,
+    "speed": 0,
+    "heading": 337,
+    "label": "",
+    "lastUpdated": 1750678725,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Hékéd"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ2ODEy",
+      "tripHeadsign": "Szolnok",
+      "tripShortName": "7225  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 7202/7207/7211/7212/7213/7214/7215/7216/7217/7218/7221/7222/7224/7225/7226/7227/7229/7232/7234/7235/7236/7237/7239/7255",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150768",
+    "lat": 47.5495682,
+    "lon": 19.0902691,
+    "speed": 0,
+    "heading": 137,
+    "label": "",
+    "lastUpdated": 1750674732,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 45060,
+      "stop": {
+        "name": "Angyalföld"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDA2NzMx",
+      "tripHeadsign": "Angyalföld",
+      "tripShortName": "2045  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#417;</span>",
+      "route": {
+        "longName": "Z72",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504715011",
+    "lat": 47.6844406,
+    "lon": 17.6668301,
+    "speed": 28,
+    "heading": 272,
+    "label": "",
+    "lastUpdated": 1750678725,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49020,
+      "stop": {
+        "name": "Győr"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MzYwMjk1",
+      "tripHeadsign": "Szombathely",
+      "tripShortName": "934 SAVARIA InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC SAVARIA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514355045",
+    "lat": 46.9735718,
+    "lon": 16.4837093,
+    "speed": 33,
+    "heading": 246,
+    "label": "",
+    "lastUpdated": 1750678726,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Rátót"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODk1MDAwLjIyMjI2MjUw",
+      "tripHeadsign": "Szentgotthárd",
+      "tripShortName": "9174  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 9150/9151/9156/9160/9161/9162/9163/9167/9168/9169/9170/9171/9173/9174/9175/9176/9177/9184/9185/9186/9193/9196",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150376",
+    "lat": 47.7711906,
+    "lon": 19.1516991,
+    "speed": 17,
+    "heading": 147,
+    "label": "",
+    "lastUpdated": 1750678691,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Sződ-Sződliget"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDAyNjY3",
+      "tripHeadsign": "Rákospalota-Újpest",
+      "tripShortName": "2485  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#363;</span>",
+      "route": {
+        "longName": "S70",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504310060",
+    "lat": 47.2873688,
+    "lon": 19.5281696,
+    "speed": 12,
+    "heading": 313,
+    "label": "",
+    "lastUpdated": 1750678446,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49500,
+      "stop": {
+        "name": "Ferihegy"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDgzMDg0",
+      "tripHeadsign": "Budapest-Nyugati",
+      "tripShortName": "715 NAPFÉNY InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC NAPFÉNY",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:918061825728",
+    "lat": 47.4375,
+    "lon": 19.2235298,
+    "speed": 0,
+    "heading": 312,
+    "label": "",
+    "lastUpdated": 1750678708,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 47700,
+      "stop": {
+        "name": "Ferihegy"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMDEzMTc3",
+      "tripHeadsign": "Budapest-Nyugati",
+      "tripShortName": "560 TOKAJ InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC TOKAJ",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150842",
+    "lat": 46.8238297,
+    "lon": 21.0026703,
+    "speed": 33,
+    "heading": 307,
+    "label": "",
+    "lastUpdated": 1750678549,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Csárdaszállás"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MTU5NDIz",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "745 BÉKÉS InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR BÉKÉS",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504800086",
+    "lat": 47.0425491,
+    "lon": 18.3446293,
+    "speed": 28,
+    "heading": 231,
+    "label": "",
+    "lastUpdated": 1750678465,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 50100,
+      "stop": {
+        "name": "Siófok"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1NDg0",
+      "tripHeadsign": "Keszthely",
+      "tripShortName": "874 BALATON InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BALATON/KÉK HULLÁM/TÓPART",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915506300432",
+    "lat": 47.9792786,
+    "lon": 21.6662292,
+    "speed": 25,
+    "heading": 307,
+    "label": "",
+    "lastUpdated": 1750678691,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49740,
+      "stop": {
+        "name": "Tokaj"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MzI1NzY4",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "654 TOKAJ InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC TOKAJ",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173251",
+    "lat": 46.6814919,
+    "lon": 17.8748302,
+    "speed": 0,
+    "heading": 337,
+    "label": "",
+    "lastUpdated": 1750647928,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 18540,
+      "stop": {
+        "name": "Karád"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0ODMx",
+      "tripHeadsign": "Siófok",
+      "tripShortName": "38310  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 38310",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172196",
+    "lat": 47.1189919,
+    "lon": 17.9023209,
+    "speed": 6,
+    "heading": 348,
+    "label": "",
+    "lastUpdated": 1750678627,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 50100,
+      "stop": {
+        "name": "Eplény"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0NDIw",
+      "tripHeadsign": "Győr",
+      "tripShortName": "39525  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 39511/39512/39513/39514/39515/39516/39517/39518/39522/39523/39524/39525/39526/39527",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:918061939685",
+    "lat": 46.4325294,
+    "lon": 21.2378902,
+    "speed": 0,
+    "heading": 154,
+    "label": "",
+    "lastUpdated": 1750678317,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 50100,
+      "stop": {
+        "name": "Kétegyháza"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODUyNjgy",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "374 MAROS InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BÉGA/BÉKÉS/ISTER/KÖRÖS/MAROS/ZARÁND",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504322412",
+    "lat": 47.7354889,
+    "lon": 19.2003403,
+    "speed": 16,
+    "heading": 101,
+    "label": "",
+    "lastUpdated": 1750678727,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49740,
+      "stop": {
+        "name": "Váckisújfalu"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MTU5NDEx",
+      "tripHeadsign": "Aszód",
+      "tripShortName": "33425  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#508;</span>",
+      "route": {
+        "longName": "S77",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:925504183045",
+    "lat": 46.7079086,
+    "lon": 17.4520702,
+    "speed": 2,
+    "heading": 255,
+    "label": "",
+    "lastUpdated": 1750678762,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Máriahullámtelep"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDczODk5",
+      "tripHeadsign": "Tapolca",
+      "tripShortName": "8894 FENYVES Expresszvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#472;</span>",
+      "route": {
+        "longName": "Ex FENYVES",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150016",
+    "lat": 46.750309,
+    "lon": 17.5585709,
+    "speed": 0,
+    "heading": 250,
+    "label": "",
+    "lastUpdated": 1750678751,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48900,
+      "stop": {
+        "name": "Fonyód"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODczNTIx",
+      "tripHeadsign": "Nagykanizsa",
+      "tripShortName": "844 TÓPART InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BALATON/KÉK HULLÁM/TÓPART",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:925504181429",
+    "lat": 46.6734581,
+    "lon": 21.0275002,
+    "speed": 14,
+    "heading": 68,
+    "label": "",
+    "lastUpdated": 1750655229,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 25920,
+      "stop": {
+        "name": "Békéscsaba"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjIyNjk1LjIyMDIyNjY3",
+      "tripHeadsign": "Békéscsaba",
+      "tripShortName": "7740  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 7740",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514260277",
+    "lat": 46.2063103,
+    "lon": 18.7066498,
+    "speed": 19,
+    "heading": 339,
+    "label": "",
+    "lastUpdated": 1750678553,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49380,
+      "stop": {
+        "name": "Decs"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0NzA3",
+      "tripHeadsign": "Székesfehérvár",
+      "tripShortName": "8395 GEMENC InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR GEMENC",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915506300101",
+    "lat": 46.5238686,
+    "lon": 18.3891792,
+    "speed": 0,
+    "heading": 334,
+    "label": "",
+    "lastUpdated": 1750678388,
+    "stopRelationship": null,
+    "trip": {
+      "id": "VHJpcDoxOjI0ODkyMzkwLjIyMjA4MzU2",
+      "tripHeadsign": "Budapest-Kelenföld",
+      "tripShortName": "825 KRESZ GÉZA InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC KRESZ GÉZA/RIPPL-RÓNAI/SOMOGY",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514355086",
+    "lat": 47.5868111,
+    "lon": 17.0954895,
+    "speed": 23,
+    "heading": 262,
+    "label": "",
+    "lastUpdated": 1750678666,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48840,
+      "stop": {
+        "name": "Kapuvár"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjY4NDEw",
+      "tripHeadsign": "Sopron",
+      "tripShortName": "9924  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 9910/9915/9918/9920/9921/9923/9924/9925/9927/9930/9931/9932/9936/9941/9943/9948",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:505580054169",
+    "lat": 47.5201988,
+    "lon": 21.6291695,
+    "speed": 0,
+    "heading": 238,
+    "label": "",
+    "lastUpdated": 1750678748,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Debrecen-Csapókert"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNTMyNzc1",
+      "tripHeadsign": "Záhony",
+      "tripShortName": "6234  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 6214/6216/6219/6223/6225/6227/6229/6232/6233/6234/6247/6249/6259/6266/6276",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150152",
+    "lat": 47.5195808,
+    "lon": 21.6273499,
+    "speed": 11,
+    "heading": 238,
+    "label": "",
+    "lastUpdated": 1750678674,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49560,
+      "stop": {
+        "name": "Ebes"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMDEzMzc4",
+      "tripHeadsign": "Budapest-Nyugati",
+      "tripShortName": "6095 CÍVIS InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR CÍVIS",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:918061825652",
+    "lat": 47.6778908,
+    "lon": 16.5868301,
+    "speed": 5,
+    "heading": 312,
+    "label": "",
+    "lastUpdated": 1750671414,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 41880,
+      "stop": {
+        "name": "Sopron"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MjgyNzIy",
+      "tripHeadsign": "Sopron",
+      "tripShortName": "992 SCARBANTIA InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC SCARBANTIA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:918061939677",
+    "lat": 48.2625999,
+    "lon": 21.4535599,
+    "speed": 16,
+    "heading": 59,
+    "label": "",
+    "lastUpdated": 1750678548,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48840,
+      "stop": {
+        "name": "Bodrogolaszi"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0MTAx",
+      "tripHeadsign": "Sátoraljaújhely",
+      "tripShortName": "504 ZEMPLÉN InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC ZEMPLÉN",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514160337",
+    "lat": 46.8645706,
+    "lon": 19.9861202,
+    "speed": 11,
+    "heading": 228,
+    "label": "",
+    "lastUpdated": 1750678695,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Tőserdő"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0MDMwMDk5",
+      "tripHeadsign": "Kiskunfélegyháza",
+      "tripShortName": "37215  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 37212/37213/37214/37215/37216/37217/37218/37219/37225/37226",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504322602",
+    "lat": 47.19841,
+    "lon": 20.1310997,
+    "speed": 26,
+    "heading": 333,
+    "label": "",
+    "lastUpdated": 1750678771,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 53400,
+      "stop": {
+        "name": "Budapest-Keleti"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODczNTgw",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "376 KÖRÖS InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BÉGA/BÉKÉS/ISTER/KÖRÖS/MAROS/ZARÁND",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172790",
+    "lat": 46.8774109,
+    "lon": 17.4282207,
+    "speed": 4,
+    "heading": 328,
+    "label": "",
+    "lastUpdated": 1750634914,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 5340,
+      "stop": {
+        "name": "Tapolca"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0NDQz",
+      "tripHeadsign": "Tapolca",
+      "tripShortName": "19790 BAGOLYVONAT személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz BAGOLYVONAT",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150479",
+    "lat": 47.2239799,
+    "lon": 18.85569,
+    "speed": 35,
+    "heading": 198,
+    "label": "",
+    "lastUpdated": 1750678706,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49380,
+      "stop": {
+        "name": "Iváncsa"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjYxNTQ1",
+      "tripHeadsign": "Dunaújváros",
+      "tripShortName": "4234  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#359;</span>",
+      "route": {
+        "longName": "S42",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504700054",
+    "lat": 47.4724503,
+    "lon": 19.0246296,
+    "speed": 16,
+    "heading": 80,
+    "label": "",
+    "lastUpdated": 1750678767,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49440,
+      "stop": {
+        "name": "Budapest-Keleti"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDczOTkx",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "251 DRÁVA InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC DRÁVA/MURA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151014",
+    "lat": 47.4012794,
+    "lon": 19.2821903,
+    "speed": 28,
+    "heading": 123,
+    "label": "",
+    "lastUpdated": 1750678787,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Üllő"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMDEzMTE3",
+      "tripHeadsign": "Monor",
+      "tripShortName": "2774  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#360;</span>",
+      "route": {
+        "longName": "S50",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150103",
+    "lat": 47.4667816,
+    "lon": 19.2592602,
+    "speed": 28,
+    "heading": 101,
+    "label": "",
+    "lastUpdated": 1750678706,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49620,
+      "stop": {
+        "name": "Sülysáp"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0NjE5",
+      "tripHeadsign": "Szolnok",
+      "tripShortName": "3344  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#385;</span>",
+      "route": {
+        "longName": "Z60",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173673",
+    "lat": 47.0153198,
+    "lon": 21.1484299,
+    "speed": 0,
+    "heading": 243,
+    "label": "",
+    "lastUpdated": 1750678405,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48720,
+      "stop": {
+        "name": "Szeghalom"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Mjc0ODgz",
+      "tripHeadsign": "Gyoma",
+      "tripShortName": "37524  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 37510/37511/37512/37513/37514/37515/37516/37517/37519/37520/37523/37524/37526/37527",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504800102",
+    "lat": 47.1726303,
+    "lon": 20.1421795,
+    "speed": 17,
+    "heading": 100,
+    "label": "",
+    "lastUpdated": 1750678665,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49020,
+      "stop": {
+        "name": "Szolnok"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzODMzNzQ1",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "684 TOKAJ InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC TOKAJ",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504312876",
+    "lat": 48.1584702,
+    "lon": 21.2533398,
+    "speed": 23,
+    "heading": 279,
+    "label": "",
+    "lastUpdated": 1750678706,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Szerencs"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMzk1MDI2",
+      "tripHeadsign": "Füzesabony",
+      "tripShortName": "5115  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 5112/5113/5114/5115/5116/5117/5118/5122/5124/5125/5127/5133/5134/5135/5136/5138/5139/5144/5145/5146/5147/5169",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:918061937234",
+    "lat": 48.2890015,
+    "lon": 21.0527802,
+    "speed": 0,
+    "heading": 237,
+    "label": "",
+    "lastUpdated": 1750678786,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Ináncs"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMzk1MDEy",
+      "tripHeadsign": "Miskolc-Tiszai",
+      "tripShortName": "5345  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 5312/5315/5317/5319/5320/5321/5323/5326/5327/5328/5329/5330/5331/5332/5333/5334/5335/5338/5342/5344/5345/5346/5348",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514160329",
+    "lat": 47.610939,
+    "lon": 21.7619495,
+    "speed": 14,
+    "heading": 66,
+    "label": "",
+    "lastUpdated": 1750678787,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49380,
+      "stop": {
+        "name": "Tamásipuszta"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0Mzc0",
+      "tripHeadsign": "Mátészalka",
+      "tripShortName": "6324  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 16336/16338/6310/6312/6313/6314/6315/6316/6318/6319/6322/6323/6324/6325/6328/6329/6336/6338/6339/6347",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150719",
+    "lat": 47.6711311,
+    "lon": 19.7853794,
+    "speed": 22,
+    "heading": 260,
+    "label": "",
+    "lastUpdated": 1750678526,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Hatvan"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0Nzc3",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "3045 MÁTRA InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#541;</span>",
+      "route": {
+        "longName": "IR85",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173442",
+    "lat": 47.4992714,
+    "lon": 20.1678104,
+    "speed": 11,
+    "heading": 328,
+    "label": "",
+    "lastUpdated": 1750678646,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Jászapáti"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NzE0MzAz",
+      "tripHeadsign": "Vámosgyörk",
+      "tripShortName": "35715  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 35711/35715/35716/35722/35723/35727",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150487",
+    "lat": 47.3781013,
+    "lon": 18.9038906,
+    "speed": 21,
+    "heading": 73,
+    "label": "",
+    "lastUpdated": 1750678750,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Érd felső"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1MjQx",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "4145  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#358;</span>",
+      "route": {
+        "longName": "S40",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151139",
+    "lat": 47.2236099,
+    "lon": 20.7373199,
+    "speed": 29,
+    "heading": 265,
+    "label": "",
+    "lastUpdated": 1750678648,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49500,
+      "stop": {
+        "name": "Fegyvernek-Örményes"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMDEzMzc2",
+      "tripHeadsign": "Budapest-Nyugati",
+      "tripShortName": "6005 CÍVIS InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR CÍVIS",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150251",
+    "lat": 47.3473396,
+    "lon": 19.86973,
+    "speed": 11,
+    "heading": 289,
+    "label": "",
+    "lastUpdated": 1750678804,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48960,
+      "stop": {
+        "name": "Tápiószele"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NzE0MTc5",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "3345  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#385;</span>",
+      "route": {
+        "longName": "Z60",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150933",
+    "lat": 47.5788193,
+    "lon": 19.3646507,
+    "speed": 33,
+    "heading": 158,
+    "label": "",
+    "lastUpdated": 1750678647,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 50700,
+      "stop": {
+        "name": "Budapest-Keleti"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NzE0Mjgw",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "5505 AGRIA InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#542;</span>",
+      "route": {
+        "longName": "IR87",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172576",
+    "lat": 45.9894981,
+    "lon": 17.9723492,
+    "speed": 3,
+    "heading": 239,
+    "label": "",
+    "lastUpdated": 1750678791,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Királyegyháza-Rigópuszta"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzNzE0",
+      "tripHeadsign": "Sellye",
+      "tripShortName": "38224  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 38210/38211/38212/38213/38214/38215/38216/38217/38218/38219/38220/38221/38223/38224/38225/38226/38228/38229/38253",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150392",
+    "lat": 47.6799316,
+    "lon": 19.1353607,
+    "speed": 33,
+    "heading": 191,
+    "label": "",
+    "lastUpdated": 1750678747,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Dunakeszi-Gyártelep"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDA2Njgy",
+      "tripHeadsign": "Rákospalota-Újpest",
+      "tripShortName": "2335  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#386;</span>",
+      "route": {
+        "longName": "Z70",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173442",
+    "lat": 47.1789703,
+    "lon": 20.1739197,
+    "speed": 11,
+    "heading": 41,
+    "label": "",
+    "lastUpdated": 1750667529,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 37260,
+      "stop": {
+        "name": "Szolnok"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0Nzky",
+      "tripHeadsign": "Szolnok",
+      "tripShortName": "35732  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 35713/35714/35717/35724/35725/35726/35732",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501274190",
+    "lat": 47.5162811,
+    "lon": 21.9198494,
+    "speed": 11,
+    "heading": 88,
+    "label": "",
+    "lastUpdated": 1750678526,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Szentannapuszta"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ2NjQ2",
+      "tripHeadsign": "Nyírábrány",
+      "tripShortName": "6824  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 16833/16836/6811/6814/6815/6816/6818/6819/6824/6828/6833/6836/6838/6843/6847/6856",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172584",
+    "lat": 46.7067986,
+    "lon": 19.8340206,
+    "speed": 4,
+    "heading": 147,
+    "label": "",
+    "lastUpdated": 1750678753,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49380,
+      "stop": {
+        "name": "Városi park"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzMDk4",
+      "tripHeadsign": "Hódmezővásárhely",
+      "tripShortName": "32614  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 32610/32612/32613/32614/32617/32626",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514355102",
+    "lat": 47.6766891,
+    "lon": 16.5883408,
+    "speed": 9,
+    "heading": 315,
+    "label": "",
+    "lastUpdated": 1750651502,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 21360,
+      "stop": {
+        "name": "Sopron"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MzI1NzQy",
+      "tripHeadsign": "Sopron",
+      "tripShortName": "9169  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 9150/9151/9156/9160/9161/9162/9163/9167/9168/9169/9170/9171/9173/9174/9175/9176/9177/9184/9185/9186/9193/9196",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:925504183086",
+    "lat": 46.7555389,
+    "lon": 17.3080502,
+    "speed": 16,
+    "heading": 298,
+    "label": "",
+    "lastUpdated": 1750678708,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Gyenesdiás"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDczOTA1",
+      "tripHeadsign": "Kaposvár",
+      "tripShortName": "8805 FENYVES Expresszvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#472;</span>",
+      "route": {
+        "longName": "Ex FENYVES",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514155007",
+    "lat": 47.9136887,
+    "lon": 17.1457691,
+    "speed": 0,
+    "heading": 307,
+    "label": "",
+    "lastUpdated": 1750678760,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49440,
+      "stop": {
+        "name": "Mosonszolnok"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0MTEzNjY2",
+      "tripHeadsign": "Szombathely",
+      "tripShortName": "39824  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 39812/39824",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150586",
+    "lat": 47.585041,
+    "lon": 18.3933601,
+    "speed": 4,
+    "heading": 150,
+    "label": "",
+    "lastUpdated": 1750678758,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Alsógalla"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MjU4Mzkw",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "4935  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#335;</span>",
+      "route": {
+        "longName": "S10",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:505580050076",
+    "lat": 47.7513809,
+    "lon": 20.4154091,
+    "speed": 0,
+    "heading": 253,
+    "label": "",
+    "lastUpdated": 1750678747,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Szihalom"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMzk1MDE4",
+      "tripHeadsign": "Nyíregyháza",
+      "tripShortName": "5144  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 5112/5113/5114/5115/5116/5117/5118/5122/5124/5125/5127/5133/5134/5135/5136/5138/5139/5144/5145/5146/5147/5169",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504800037",
+    "lat": 46.7888298,
+    "lon": 17.6990891,
+    "speed": 20,
+    "heading": 67,
+    "label": "",
+    "lastUpdated": 1750678727,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Balatonszemes"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1MTMw",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "875 BALATON InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BALATON/KÉK HULLÁM/TÓPART",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504312942",
+    "lat": 47.4723206,
+    "lon": 19.0224705,
+    "speed": 14,
+    "heading": 14,
+    "label": "",
+    "lastUpdated": 1750639728,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 90540,
+      "stop": {
+        "name": "Budapest-Déli"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1NTIz",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "18521 BAGOLYVONAT személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz BAGOLYVONAT",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150396",
+    "lat": 47.3201103,
+    "lon": 18.7804298,
+    "speed": 0,
+    "heading": 218,
+    "label": "",
+    "lastUpdated": 1750678729,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48960,
+      "stop": {
+        "name": "Martonvásár"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0Mjgx",
+      "tripHeadsign": "Székesfehérvár",
+      "tripShortName": "4544  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#383;</span>",
+      "route": {
+        "longName": "Z30",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173103",
+    "lat": 47.7851601,
+    "lon": 19.1274796,
+    "speed": 10,
+    "heading": 320,
+    "label": "",
+    "lastUpdated": 1750678753,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Kisvác"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQyODE3",
+      "tripHeadsign": "Diósjenő",
+      "tripShortName": "32244  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#376;</span>",
+      "route": {
+        "longName": "S750",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150180",
+    "lat": 47.8892784,
+    "lon": 17.1930695,
+    "speed": 0,
+    "heading": 127,
+    "label": "",
+    "lastUpdated": 1750678751,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Levél"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzOTcw",
+      "tripHeadsign": "Győr",
+      "tripShortName": "9445  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 19418/19421/19422/19423/19447/9412/9414/9416/9417/9418/9419/9420/9425/9427/9431/9434/9437/9438/9441/9442/9443/9445/9448/9456/9458/9467",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150079",
+    "lat": 47.5091095,
+    "lon": 19.1043606,
+    "speed": 16,
+    "heading": 135,
+    "label": "",
+    "lastUpdated": 1750678691,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Kőbánya alsó"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ2ODcz",
+      "tripHeadsign": "Cegléd",
+      "tripShortName": "2856  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#384;</span>",
+      "route": {
+        "longName": "Z50",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150301",
+    "lat": 46.7214584,
+    "lon": 19.8211403,
+    "speed": 33,
+    "heading": 328,
+    "label": "",
+    "lastUpdated": 1750678751,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49620,
+      "stop": {
+        "name": "Kecskemét"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDgzMDg3",
+      "tripHeadsign": "Budapest-Nyugati",
+      "tripShortName": "725 ALFÖLD Expresszvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#472;</span>",
+      "route": {
+        "longName": "Ex ALFÖLD",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:505580054003",
+    "lat": 47.9699402,
+    "lon": 21.3677807,
+    "speed": 13,
+    "heading": 144,
+    "label": "",
+    "lastUpdated": 1750678627,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Tiszavasvári"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQyOTA0",
+      "tripHeadsign": "Debrecen",
+      "tripShortName": "36625  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 36610/36611/36612/36613/36614/36615/36616/36617/36618/36619/36622/36623/36624/36625/36626/36627/36628/36629/36638/36639/36658/36668",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151238",
+    "lat": 47.7712708,
+    "lon": 19.1518402,
+    "speed": 19,
+    "heading": 148,
+    "label": "",
+    "lastUpdated": 1750678747,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Máriaudvar"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDAyNzQ5",
+      "tripHeadsign": "Rákospalota-Újpest",
+      "tripShortName": "2545  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#364;</span>",
+      "route": {
+        "longName": "S71",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150701",
+    "lat": 47.4921913,
+    "lon": 19.2845402,
+    "speed": 0,
+    "heading": 56,
+    "label": "",
+    "lastUpdated": 1750678803,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48300,
+      "stop": {
+        "name": "Rákoscsaba"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NzE0MjI0",
+      "tripHeadsign": "Gödöllő",
+      "tripShortName": "3164  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#366;</span>",
+      "route": {
+        "longName": "S80",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151162",
+    "lat": 47.5004501,
+    "lon": 19.0838108,
+    "speed": 5,
+    "heading": 91,
+    "label": "",
+    "lastUpdated": 1750678803,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Kőbánya felső"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0Njg0",
+      "tripHeadsign": "Gödöllő",
+      "tripShortName": "3174  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#366;</span>",
+      "route": {
+        "longName": "S80",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:918061932169",
+    "lat": 47.429039,
+    "lon": 19.4052906,
+    "speed": 28,
+    "heading": 92,
+    "label": "",
+    "lastUpdated": 1750678749,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 52260,
+      "stop": {
+        "name": "Szolnok"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODUyNjkx",
+      "tripHeadsign": "Timişoara Nord",
+      "tripShortName": "377 BÉGA InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BÉGA/BÉKÉS/ISTER/KÖRÖS/MAROS/ZARÁND",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514260053",
+    "lat": 46.6052284,
+    "lon": 18.6500702,
+    "speed": 19,
+    "heading": 179,
+    "label": "",
+    "lastUpdated": 1750678429,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49020,
+      "stop": {
+        "name": "Tengelic"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0Njk3",
+      "tripHeadsign": "Baja",
+      "tripShortName": "8394 GEMENC InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR GEMENC",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504311472",
+    "lat": 47.0409012,
+    "lon": 17.1959705,
+    "speed": 0,
+    "heading": 347,
+    "label": "",
+    "lastUpdated": 1750678751,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48660,
+      "stop": {
+        "name": "Ukk"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MTU5NTQ0",
+      "tripHeadsign": "Celldömölk",
+      "tripShortName": "9525  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 9511/9512/9513/9514/9515/9516/9517/9518/9519/9520/9521/9523/9524/9525/9526/9528/9540",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:985504782154",
+    "lat": 47.5902786,
+    "lon": 17.6954403,
+    "speed": 13,
+    "heading": 318,
+    "label": "",
+    "lastUpdated": 1750678248,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48840,
+      "stop": {
+        "name": "Győrszabadhegy"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0NDE5",
+      "tripHeadsign": "Győr",
+      "tripShortName": "39515  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 39511/39512/39513/39514/39515/39516/39517/39518/39522/39523/39524/39525/39526/39527",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514260160",
+    "lat": 47.2189713,
+    "lon": 16.6420803,
+    "speed": 20,
+    "heading": 150,
+    "label": "",
+    "lastUpdated": 1750678490,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48000,
+      "stop": {
+        "name": "Sorkifalud"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1MTQ2",
+      "tripHeadsign": "Pécs",
+      "tripShortName": "8994 PANNÓNIA InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR PANNÓNIA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514355102",
+    "lat": 47.2284012,
+    "lon": 16.6367798,
+    "speed": 11,
+    "heading": 163,
+    "label": "",
+    "lastUpdated": 1750678751,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Szombathely-Szőlős"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0NTQ2",
+      "tripHeadsign": "Szentgotthárd",
+      "tripShortName": "9124  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 9110/9111/9112/9113/9114/9115/9116/9117/9118/9119/9121/9123/9124/9126/9127/9128/9133/9136/9138",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504312157",
+    "lat": 47.4995804,
+    "lon": 19.0246792,
+    "speed": 2,
+    "heading": 344,
+    "label": "",
+    "lastUpdated": 1750654804,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 25140,
+      "stop": {
+        "name": "Budapest-Déli"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIxMjUyMDU1",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "9059  sebesvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#482;</span>",
+      "route": {
+        "longName": "S VÍZIPÓK",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:925504183102",
+    "lat": 46.4101105,
+    "lon": 17.75881,
+    "speed": 20,
+    "heading": 182,
+    "label": "",
+    "lastUpdated": 1750678691,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48540,
+      "stop": {
+        "name": "Várda"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDgzMjUx",
+      "tripHeadsign": "Kaposvár",
+      "tripShortName": "8807 FENYVES Expresszvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#472;</span>",
+      "route": {
+        "longName": "Ex FENYVES",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150446",
+    "lat": 47.4646683,
+    "lon": 19.0205307,
+    "speed": 0,
+    "heading": 6,
+    "label": "",
+    "lastUpdated": 1750678727,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48960,
+      "stop": {
+        "name": "Budapest-Kelenföld"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjY3ODA3",
+      "tripHeadsign": "Kőbánya-Kispest",
+      "tripShortName": "3895  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#357;</span>",
+      "route": {
+        "longName": "S36",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172832",
+    "lat": 46.3144112,
+    "lon": 20.8289108,
+    "speed": 12,
+    "heading": 51,
+    "label": "",
+    "lastUpdated": 1750678646,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49500,
+      "stop": {
+        "name": "Belsőkamaráspuszta"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0MDIzNDYw",
+      "tripHeadsign": "Békéscsaba",
+      "tripShortName": "37013  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 37011/37012/37013/37014/37015/37016/37017/37018/37019/37020/37022/37023/37024/37025/37026/37027/37034/37036/37039",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151204",
+    "lat": 47.6560402,
+    "lon": 18.7950993,
+    "speed": 11,
+    "heading": 265,
+    "label": "",
+    "lastUpdated": 1750678526,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Leányvár"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDA2NjY2",
+      "tripHeadsign": "Esztergom",
+      "tripShortName": "2064  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#417;</span>",
+      "route": {
+        "longName": "Z72",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514260186",
+    "lat": 47.6826515,
+    "lon": 17.6366291,
+    "speed": 9,
+    "heading": 240,
+    "label": "",
+    "lastUpdated": 1750651405,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 21780,
+      "stop": {
+        "name": "Győr"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0NDYy",
+      "tripHeadsign": "Győr",
+      "tripShortName": "9229  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 19261/9210/9211/9212/9213/9214/9215/9216/9217/9218/9219/9221/9222/9223/9224/9225/9226/9227/9229/9236/9238/9239/9248",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173020",
+    "lat": 47.3181496,
+    "lon": 21.0951595,
+    "speed": 11,
+    "heading": 204,
+    "label": "",
+    "lastUpdated": 1750678290,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49380,
+      "stop": {
+        "name": "Hosszúhát"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzMDg3",
+      "tripHeadsign": "Szeghalom",
+      "tripShortName": "37725  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 37711/37712/37713/37714/37715/37716/37717/37720/37723/37724/37725/37726/37727/37750/37758/37759",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514355029",
+    "lat": 46.9632988,
+    "lon": 16.2785091,
+    "speed": 22,
+    "heading": 240,
+    "label": "",
+    "lastUpdated": 1750650646,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 20940,
+      "stop": {
+        "name": "Szentgotthárd"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MzI1NzI5",
+      "tripHeadsign": "Szentgotthárd",
+      "tripShortName": "9150  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 9150/9151/9156/9160/9161/9162/9163/9167/9168/9169/9170/9171/9173/9174/9175/9176/9177/9184/9185/9186/9193/9196",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504310946",
+    "lat": 47.1356583,
+    "lon": 21.7215004,
+    "speed": 3,
+    "heading": 102,
+    "label": "",
+    "lastUpdated": 1750671088,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 41280,
+      "stop": {
+        "name": "Biharkeresztes"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDgzMTQw",
+      "tripHeadsign": "Episcopia Bihor",
+      "tripShortName": "361  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 358/359/360/361/362/363/364/365/368/369",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151196",
+    "lat": 47.5778999,
+    "lon": 19.1224308,
+    "speed": 0,
+    "heading": 210,
+    "label": "",
+    "lastUpdated": 1750678767,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49020,
+      "stop": {
+        "name": "Rákospalota-Kertváros"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDAyNzQ3",
+      "tripHeadsign": "Rákospalota-Újpest",
+      "tripShortName": "2535  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#364;</span>",
+      "route": {
+        "longName": "S71",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501274224",
+    "lat": 48.3232803,
+    "lon": 22.1988792,
+    "speed": 11,
+    "heading": 160,
+    "label": "",
+    "lastUpdated": 1750678365,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Tornyospálca"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1MzUx",
+      "tripHeadsign": "Zajta",
+      "tripShortName": "32416  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 32416",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504715029",
+    "lat": 47.4238281,
+    "lon": 17.0145493,
+    "speed": 15,
+    "heading": 51,
+    "label": "",
+    "lastUpdated": 1750678767,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 50220,
+      "stop": {
+        "name": "Csorna"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MjU4NDMz",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "925 SAVARIA InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC SAVARIA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504312298",
+    "lat": 47.4635887,
+    "lon": 19.0211201,
+    "speed": 0,
+    "heading": 185,
+    "label": "",
+    "lastUpdated": 1750678650,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48960,
+      "stop": {
+        "name": "Budapest-Kelenföld"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzMDcw",
+      "tripHeadsign": "Balatonfüred",
+      "tripShortName": "19724 VÍZIPÓK sebesvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#482;</span>",
+      "route": {
+        "longName": "S VÍZIPÓK",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150255",
+    "lat": 47.1860085,
+    "lon": 18.4396896,
+    "speed": 27,
+    "heading": 97,
+    "label": "",
+    "lastUpdated": 1750678730,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 51360,
+      "stop": {
+        "name": "Budapest-Kelenföld"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODUyNTg5",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "845 TÓPART InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BALATON/KÉK HULLÁM/TÓPART",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172493",
+    "lat": 47.4506683,
+    "lon": 20.5555801,
+    "speed": 11,
+    "heading": 154,
+    "label": "",
+    "lastUpdated": 1750678751,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49980,
+      "stop": {
+        "name": "Kunhegyes"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0OTk3MTQ3",
+      "tripHeadsign": "Kisújszállás",
+      "tripShortName": "36554  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 36552/36553/36554/36555/36556/36557/36558/36562/36563",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:918061825645",
+    "lat": 46.755291,
+    "lon": 21.0387993,
+    "speed": 0,
+    "heading": 165,
+    "label": "",
+    "lastUpdated": 1750678705,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48600,
+      "stop": {
+        "name": "Murony"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODczNTg3",
+      "tripHeadsign": "Arad",
+      "tripShortName": "375 MAROS InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC BÉGA/BÉKÉS/ISTER/KÖRÖS/MAROS/ZARÁND",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:925504183094",
+    "lat": 46.6758919,
+    "lon": 16.9680691,
+    "speed": 16,
+    "heading": 307,
+    "label": "",
+    "lastUpdated": 1750678749,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 50220,
+      "stop": {
+        "name": "Zalaszentiván"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1NTM3",
+      "tripHeadsign": "Szombathely",
+      "tripShortName": "8905 PANNÓNIA InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR PANNÓNIA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172170",
+    "lat": 46.403511,
+    "lon": 20.3131104,
+    "speed": 7,
+    "heading": 62,
+    "label": "",
+    "lastUpdated": 1750678646,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48840,
+      "stop": {
+        "name": "Hódmezővásárhely"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzNzUw",
+      "tripHeadsign": "Hódmezővásárhely",
+      "tripShortName": "7244  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 17240/17243/17248/17249/32615/7240/7241/7242/7243/7244/7245/7247",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150210",
+    "lat": 47.7512589,
+    "lon": 20.4146996,
+    "speed": 0,
+    "heading": 73,
+    "label": "",
+    "lastUpdated": 1750678706,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48780,
+      "stop": {
+        "name": "Füzesabony"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0NzE3",
+      "tripHeadsign": "Eger",
+      "tripShortName": "5514 AGRIA InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#542;</span>",
+      "route": {
+        "longName": "IR87",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:925504183128",
+    "lat": 46.9563103,
+    "lon": 17.8828297,
+    "speed": 0,
+    "heading": 48,
+    "label": "",
+    "lastUpdated": 1750678802,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48960,
+      "stop": {
+        "name": "Balatonfüred"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ3MjAy",
+      "tripHeadsign": "Záhony",
+      "tripShortName": "16906 SZABOLCSI TEKERGŐ Expresszvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#472;</span>",
+      "route": {
+        "longName": "Ex ARANYPART/CSABAI TEKERGŐ/SZABOLCSI TEKERGŐ",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:925504181155",
+    "lat": 46.5726013,
+    "lon": 20.6785603,
+    "speed": 20,
+    "heading": 67,
+    "label": "",
+    "lastUpdated": 1750678410,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49500,
+      "stop": {
+        "name": "Csorvás"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjIyNzAwLjIyMDI2Mzcy",
+      "tripHeadsign": "Békéscsaba",
+      "tripShortName": "7704  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 7700/7701/7702/7704/7705/7706/7707/7708/7711/7712/7714/7717/7738",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:505580558078",
+    "lat": 46.3697701,
+    "lon": 18.1494904,
+    "speed": 0,
+    "heading": 37,
+    "label": "",
+    "lastUpdated": 1750650551,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 20940,
+      "stop": {
+        "name": "Dombóvár"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0MTY0",
+      "tripHeadsign": "Dombóvár",
+      "tripShortName": "8059  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 18050/8051/8052/8053/8054/8055/8056/8057/8058/8059/8060/8061/8062/8063/8064/8065/8066/8067/8068",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:925504183326",
+    "lat": 47.6294289,
+    "lon": 21.5774307,
+    "speed": 15,
+    "heading": 336,
+    "label": "",
+    "lastUpdated": 1750678787,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49560,
+      "stop": {
+        "name": "Hajdúböszörmény"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzNTQ5",
+      "tripHeadsign": "Tiszalök",
+      "tripShortName": "36624  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 36610/36611/36612/36613/36614/36615/36616/36617/36618/36619/36622/36623/36624/36625/36626/36627/36628/36629/36638/36639/36658/36668",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150230",
+    "lat": 47.0951996,
+    "lon": 18.3780499,
+    "speed": 15,
+    "heading": 191,
+    "label": "",
+    "lastUpdated": 1750678637,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Polgárdi-Ipartelepek"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNzUwMDgw",
+      "tripHeadsign": "Balatonfüred",
+      "tripShortName": "19744 KATICA InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR DÉLI -> PARTI/DÉLI <- PARTI/KATICA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514160352",
+    "lat": 47.0641212,
+    "lon": 20.3200397,
+    "speed": 16,
+    "heading": 40,
+    "label": "",
+    "lastUpdated": 1750678707,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Kengyel"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ2MTYx",
+      "tripHeadsign": "Szolnok",
+      "tripShortName": "7215  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 7202/7207/7211/7212/7213/7214/7215/7216/7217/7218/7221/7222/7224/7225/7226/7227/7229/7232/7234/7235/7236/7237/7239/7255",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172576",
+    "lat": 46.0333214,
+    "lon": 17.9858398,
+    "speed": 11,
+    "heading": 94,
+    "label": "",
+    "lastUpdated": 1750650989,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 21420,
+      "stop": {
+        "name": "Szentlőrinc"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1NzM2",
+      "tripHeadsign": "Szentlőrinc",
+      "tripShortName": "8960  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 8960",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514151006",
+    "lat": 47.3678589,
+    "lon": 19.3939991,
+    "speed": 28,
+    "heading": 132,
+    "label": "",
+    "lastUpdated": 1750648606,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 19260,
+      "stop": {
+        "name": "Monor"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQzMDA0",
+      "tripHeadsign": "Monor",
+      "tripShortName": "2710  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#360;</span>",
+      "route": {
+        "longName": "S50",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504800060",
+    "lat": 47.4931602,
+    "lon": 19.1491508,
+    "speed": 13,
+    "heading": 94,
+    "label": "",
+    "lastUpdated": 1750678594,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 50940,
+      "stop": {
+        "name": "Hatvan"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMzY2NjE5",
+      "tripHeadsign": "Budapest-Nyugati",
+      "tripShortName": "566 TOKAJ InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC TOKAJ",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150693",
+    "lat": 47.6349411,
+    "lon": 19.2277603,
+    "speed": 16,
+    "heading": 94,
+    "label": "",
+    "lastUpdated": 1750678802,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Csomád"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MDA2NzA4",
+      "tripHeadsign": "Vác",
+      "tripShortName": "2544  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#364;</span>",
+      "route": {
+        "longName": "S71",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173053",
+    "lat": 46.8835106,
+    "lon": 18.1203499,
+    "speed": 10,
+    "heading": 299,
+    "label": "",
+    "lastUpdated": 1750678665,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49500,
+      "stop": {
+        "name": "Sióvölgy"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0ODM2",
+      "tripHeadsign": "Siófok",
+      "tripShortName": "38364  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 38340/38341/38362/38364/38365/38367/38397",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150321",
+    "lat": 47.3308716,
+    "lon": 18.7999496,
+    "speed": 33,
+    "heading": 55,
+    "label": "",
+    "lastUpdated": 1750678614,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48840,
+      "stop": {
+        "name": "Érd alsó"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1NDc1NTk3",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "18405 DÉLI <- PARTI InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR DÉLI -> PARTI/DÉLI <- PARTI/KATICA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504331876",
+    "lat": 46.3675613,
+    "lon": 17.9267902,
+    "speed": 27,
+    "heading": 97,
+    "label": "",
+    "lastUpdated": 1750678727,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49440,
+      "stop": {
+        "name": "Nagyberki"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0NzQ5",
+      "tripHeadsign": "Dombóvár",
+      "tripShortName": "8205  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 8201/8202/8204/8205/8206/8207/8208/8210/8212/8213/8217/8218/8219/8222/8225/8236",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150081",
+    "lat": 47.4722595,
+    "lon": 19.0223999,
+    "speed": 22,
+    "heading": 14,
+    "label": "",
+    "lastUpdated": 1750678567,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49140,
+      "stop": {
+        "name": "Budapest-Déli"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ1NTAx",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "4345  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#358;</span>",
+      "route": {
+        "longName": "S40",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:925504183219",
+    "lat": 47.5199013,
+    "lon": 21.6286507,
+    "speed": 3,
+    "heading": 239,
+    "label": "",
+    "lastUpdated": 1750668459,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 38820,
+      "stop": {
+        "name": "Debrecen"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0MzY2",
+      "tripHeadsign": "Debrecen",
+      "tripShortName": "6347  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 16336/16338/6310/6312/6313/6314/6315/6316/6318/6319/6322/6323/6324/6325/6328/6329/6336/6338/6339/6347",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504313429",
+    "lat": 47.3503418,
+    "lon": 19.8576202,
+    "speed": 10,
+    "heading": 289,
+    "label": "",
+    "lastUpdated": 1750678078,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 51600,
+      "stop": {
+        "name": "Budapest-Keleti"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODUyMjIw",
+      "tripHeadsign": "Wien Hbf",
+      "tripShortName": "146 TISZA - SZAMOS EuroCity",
+      "routeShortName": "<span class=\"MNR2007\">&#467;</span>",
+      "route": {
+        "longName": "EC HORTOBÁGY/TISZA - SZAMOS",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955514160360",
+    "lat": 46.9694214,
+    "lon": 20.2748795,
+    "speed": 16,
+    "heading": 190,
+    "label": "",
+    "lastUpdated": 1750678732,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Homok"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ2MTQ1",
+      "tripHeadsign": "Szentes",
+      "tripShortName": "7214  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 7202/7207/7211/7212/7213/7214/7215/7216/7217/7218/7221/7222/7224/7225/7226/7227/7229/7232/7234/7235/7236/7237/7239/7255",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150636",
+    "lat": 47.9462585,
+    "lon": 21.7058105,
+    "speed": 0,
+    "heading": 335,
+    "label": "",
+    "lastUpdated": 1750677648,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48000,
+      "stop": {
+        "name": "Nyíregyháza"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNTMyNzc0",
+      "tripHeadsign": "Záhony",
+      "tripShortName": "6224  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 6211/6215/6217/6218/6221/6224/6226/6230/6231/6239/6240/6242/6246",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150172",
+    "lat": 47.0538406,
+    "lon": 18.0524807,
+    "speed": 22,
+    "heading": 149,
+    "label": "",
+    "lastUpdated": 1750678772,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49380,
+      "stop": {
+        "name": "Balatonkenese"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzOTUwNDU3",
+      "tripHeadsign": "Budapest-Déli",
+      "tripShortName": "19745 KATICA InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR DÉLI -> PARTI/DÉLI <- PARTI/KATICA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150327",
+    "lat": 47.4891701,
+    "lon": 19.1207294,
+    "speed": 14,
+    "heading": 256,
+    "label": "",
+    "lastUpdated": 1750678553,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Budapest-Keleti"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0NjU0",
+      "tripHeadsign": "Budapest-Keleti",
+      "tripShortName": "3465  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#362;</span>",
+      "route": {
+        "longName": "S60",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173541",
+    "lat": 47.4985886,
+    "lon": 20.4761295,
+    "speed": 17,
+    "heading": 311,
+    "label": "",
+    "lastUpdated": 1750678290,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49440,
+      "stop": {
+        "name": "Tarnaszentmiklós"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0OTk3MTQ5",
+      "tripHeadsign": "Kál-Kápolna",
+      "tripShortName": "36555  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 36552/36553/36554/36555/36556/36557/36558/36562/36563",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915506300267",
+    "lat": 48.1168709,
+    "lon": 21.4144192,
+    "speed": 12,
+    "heading": 69,
+    "label": "",
+    "lastUpdated": 1750678592,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Rakamaz"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzMzYxOTA5",
+      "tripHeadsign": "Nyíregyháza",
+      "tripShortName": "5134  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 5112/5113/5114/5115/5116/5117/5118/5122/5124/5125/5127/5133/5134/5135/5136/5138/5139/5144/5145/5146/5147/5169",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172022",
+    "lat": 47.7982903,
+    "lon": 19.6704407,
+    "speed": 14,
+    "heading": 24,
+    "label": "",
+    "lastUpdated": 1750678747,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48900,
+      "stop": {
+        "name": "Jobbágyi"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNzY4MDE4",
+      "tripHeadsign": "Somoskőújfalu",
+      "tripShortName": "5834  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 5810/5811/5812/5813/5814/5815/5816/5818/5819/5820/5821/5822/5823/5824/5825/5826/5827/5828/5829/5831/5832/5833/5834/5835/5836/5837/5838/5839/5843/5846/5847/5848",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504700104",
+    "lat": 47.6304512,
+    "lon": 16.6808109,
+    "speed": 27,
+    "heading": 306,
+    "label": "",
+    "lastUpdated": 1750678613,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49080,
+      "stop": {
+        "name": "Sopron"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MjgxMzg3",
+      "tripHeadsign": "Sopron",
+      "tripShortName": "984 SCARBANTIA InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC SCARBANTIA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:918061825736",
+    "lat": 47.4637794,
+    "lon": 19.1510105,
+    "speed": 2,
+    "heading": 97,
+    "label": "",
+    "lastUpdated": 1750678715,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Ferihegy"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNTMyNzA5",
+      "tripHeadsign": "Záhony",
+      "tripShortName": "614 NYÍRSÉG InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC NYÍRSÉG/NYÍRSÉG - KRASZNA",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945518150335",
+    "lat": 47.6737709,
+    "lon": 19.8106995,
+    "speed": 33,
+    "heading": 81,
+    "label": "",
+    "lastUpdated": 1750678726,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 48900,
+      "stop": {
+        "name": "Vámosgyörk"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0Njc0NzU2",
+      "tripHeadsign": "Gyöngyös",
+      "tripShortName": "3034 MÁTRA InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#541;</span>",
+      "route": {
+        "longName": "IR85",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501171883",
+    "lat": 48.1087418,
+    "lon": 19.8106003,
+    "speed": 12,
+    "heading": 34,
+    "label": "",
+    "lastUpdated": 1750678646,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49620,
+      "stop": {
+        "name": "Somoskőújfalu"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNzcwNjc3",
+      "tripHeadsign": "Somoskőújfalu",
+      "tripShortName": "5824  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 5810/5811/5812/5813/5814/5815/5816/5818/5819/5820/5821/5822/5823/5824/5825/5826/5827/5828/5829/5831/5832/5833/5834/5835/5836/5837/5838/5839/5843/5846/5847/5848",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504313528",
+    "lat": 47.1356392,
+    "lon": 21.7215996,
+    "speed": 0,
+    "heading": 102,
+    "label": "",
+    "lastUpdated": 1750677300,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 47700,
+      "stop": {
+        "name": "Biharkeresztes"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0OTk3MTM4",
+      "tripHeadsign": "Biharkeresztes",
+      "tripShortName": "6424  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 6410/6411/6412/6413/6414/6415/6416/6417/6418/6419/6420/6421/6423/6424/6425/6426/6427/6428/6429/6436/6438/6439",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501173079",
+    "lat": 48.0616989,
+    "lon": 19.7837906,
+    "speed": 18,
+    "heading": 188,
+    "label": "",
+    "lastUpdated": 1750678665,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49320,
+      "stop": {
+        "name": "Kisterenye-Bányatelep"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIzNzY4MDI2",
+      "tripHeadsign": "Hatvan",
+      "tripShortName": "5835  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 5810/5811/5812/5813/5814/5815/5816/5818/5819/5820/5821/5822/5823/5824/5825/5826/5827/5828/5829/5831/5832/5833/5834/5835/5836/5837/5838/5839/5843/5846/5847/5848",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172105",
+    "lat": 47.5180206,
+    "lon": 17.3166294,
+    "speed": 9,
+    "heading": 175,
+    "label": "",
+    "lastUpdated": 1750678464,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49260,
+      "stop": {
+        "name": "Szany-Rábaszentandrás"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI1MTU5NDUx",
+      "tripHeadsign": "Szany-Rábaszentandrás",
+      "tripShortName": "31915  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 31912/31915/31917/31924",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:945514150297",
+    "lat": 47.1404915,
+    "lon": 18.7625198,
+    "speed": 3,
+    "heading": 213,
+    "label": "",
+    "lastUpdated": 1750657742,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 28140,
+      "stop": {
+        "name": "Pusztaszabolcs"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjYwOTIy",
+      "tripHeadsign": "Dunaújváros",
+      "tripShortName": "4212  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#359;</span>",
+      "route": {
+        "longName": "S42",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915506300101",
+    "lat": 46.3525581,
+    "lon": 17.7960205,
+    "speed": 6,
+    "heading": 285,
+    "label": "",
+    "lastUpdated": 1750663598,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 33900,
+      "stop": {
+        "name": "Kaposvár"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0ODkyMzc0LjIyMjE1NDk5",
+      "tripHeadsign": "Kaposvár",
+      "tripShortName": "822 KRESZ GÉZA InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC KRESZ GÉZA/RIPPL-RÓNAI/SOMOGY",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:505580054508",
+    "lat": 46.778141,
+    "lon": 19.7699909,
+    "speed": 18,
+    "heading": 159,
+    "label": "",
+    "lastUpdated": 1750678589,
+    "stopRelationship": null,
+    "trip": {
+      "id": "VHJpcDoxOjIzNTMyMTg4LjIxMTQwMTA2",
+      "tripHeadsign": "Baja",
+      "tripShortName": "7895 KISKUN InterRégió",
+      "routeShortName": "<span class=\"MNR2007\">&#477;</span>",
+      "route": {
+        "longName": "IR KISKUN",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915504322529",
+    "lat": 47.2866211,
+    "lon": 20.0663509,
+    "speed": 0,
+    "heading": 333,
+    "label": "",
+    "lastUpdated": 1750678727,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 48900,
+      "stop": {
+        "name": "Újszász"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NjYyMTgz",
+      "tripHeadsign": "Hatvan",
+      "tripShortName": "5745  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#379;</span>",
+      "route": {
+        "longName": "S820",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:915506300135",
+    "lat": 46.1254196,
+    "lon": 18.0105591,
+    "speed": 30,
+    "heading": 64,
+    "label": "",
+    "lastUpdated": 1750678667,
+    "stopRelationship": null,
+    "trip": {
+      "id": "VHJpcDoxOjI0ODcxNTY4LjIyMjA4ODE1",
+      "tripHeadsign": "Budapest-Kelenföld",
+      "tripShortName": "815 MECSEK InterCity",
+      "routeShortName": "<span class=\"MNR2007\">&#474;</span>",
+      "route": {
+        "longName": "IC MECSEK",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:925504181080",
+    "lat": 47.5238914,
+    "lon": 22.0158195,
+    "speed": 0,
+    "heading": 262,
+    "label": "",
+    "lastUpdated": 1750678508,
+    "stopRelationship": {
+      "status": "STOPPED_AT",
+      "arrivalTime": 50460,
+      "stop": {
+        "name": "Szentannapuszta"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIyMTY2NTA2",
+      "tripHeadsign": "Debrecen",
+      "tripShortName": "6813  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 6813",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501172378",
+    "lat": 46.4757118,
+    "lon": 17.8362808,
+    "speed": 11,
+    "heading": 355,
+    "label": "",
+    "lastUpdated": 1750678524,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49020,
+      "stop": {
+        "name": "Mernye"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjIwOTQ0ODM4",
+      "tripHeadsign": "Siófok",
+      "tripShortName": "38314  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 38313/38314/38316/38317/38323",
+        "mode": "RAIL"
+      }
+    }
+  },
+  {
+    "vehicleId": "1:955501274059",
+    "lat": 47.9399414,
+    "lon": 22.3220501,
+    "speed": 14,
+    "heading": 163,
+    "label": "",
+    "lastUpdated": 1750678465,
+    "stopRelationship": {
+      "status": "IN_TRANSIT_TO",
+      "arrivalTime": 49200,
+      "stop": {
+        "name": "Nyírcsaholy"
+      }
+    },
+    "trip": {
+      "id": "VHJpcDoxOjI0NDQxMjMz",
+      "tripHeadsign": "Tiborszállás",
+      "tripShortName": "36335  személyvonat",
+      "routeShortName": "<span class=\"MNR2007\">&#484;</span>",
+      "route": {
+        "longName": "Sz 36310/36311/36312/36313/36314/36315/36316/36317/36318/36319/36320/36321/36322/36323/36324/36325/36326/36327/36328/36329/36333/36334/36335/36336/36338/36351/36358",
+        "mode": "RAIL"
+      }
+    }
+  }
+]
