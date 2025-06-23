@@ -1,6 +1,6 @@
 {
   "date": "2025-06-23",
-  "totalTrains": 3,
+  "totalTrains": 4,
   "totalDelayMinutes": 0,
   "averageDelay": 0,
   "mostDelayedLine": {
@@ -28,6 +28,13 @@
       "stop": "Felsőlajos",
       "delayMin": 0,
       "time": "0041"
+    },
+    {
+      "tripId": "VHJpcDoxOjI0NjY4NTUw",
+      "line": "IR CÍVIS",
+      "stop": "Hajdúszoboszló",
+      "delayMin": 0,
+      "time": "0050"
     }
   ]
 }
