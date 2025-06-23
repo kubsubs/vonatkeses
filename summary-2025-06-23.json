@@ -1,6 +1,6 @@
 {
   "date": "2025-06-23",
-  "totalTrains": 4,
+  "totalTrains": 6,
   "totalDelayMinutes": 0,
   "averageDelay": 0,
   "mostDelayedLine": {
@@ -35,6 +35,13 @@
       "stop": "Hajdúszoboszló",
       "delayMin": 0,
       "time": "0050"
+    },
+    {
+      "tripId": "VHJpcDoxOjI0NjY4NTI4",
+      "line": "Sz 38318",
+      "stop": "Karád",
+      "delayMin": 0,
+      "time": "0102"
     }
   ]
 }
