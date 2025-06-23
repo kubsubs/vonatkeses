@@ -2,6 +2,7 @@ import fetch from 'node-fetch';
 import fs from 'fs';
 import path from 'path';
 import { execSync } from 'child_process';
+import { exec } from 'child_process';
 
 function gitCommitAndPush(filePath) {
   try {
@@ -155,4 +156,20 @@ const main = async () => {
 
 };
 
-main();
+main().then(() => {
+  console.log('📦 Késésadatok mentve. Összesítő generálása...');
+
+  const now = new Date();
+  const day = now.toISOString().slice(0, 10); // YYYY-MM-DD
+  const summaryFile = `summary-${day}.json`;
+
+  exec(`node daily-summary.js`, (err, stdout, stderr) => {
+    if (err) {
+      console.error('❌ Hiba a daily-summary.js futtatásakor:', stderr);
+    } else {
+      console.log('📊 Összesítő kész:', stdout);
+      gitCommitAndPush(summaryFile);
+    }
+  });
+});
+
