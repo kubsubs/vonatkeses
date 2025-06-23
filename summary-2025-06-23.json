@@ -1,6 +1,6 @@
 {
   "date": "2025-06-23",
-  "totalTrains": 1,
+  "totalTrains": 2,
   "totalDelayMinutes": 0,
   "averageDelay": 0,
   "mostDelayedLine": {
@@ -14,6 +14,13 @@
       "stop": "Debrecen",
       "delayMin": 0,
       "time": "0000"
+    },
+    {
+      "tripId": "VHJpcDoxOjI1Mjk1NzU1",
+      "line": "S506",
+      "stop": "Sáránd",
+      "delayMin": 0,
+      "time": "0010"
     }
   ]
 }
