@@ -1,6 +1,6 @@
 {
   "date": "2025-06-23",
-  "totalTrains": 2,
+  "totalTrains": 3,
   "totalDelayMinutes": 0,
   "averageDelay": 0,
   "mostDelayedLine": {
@@ -21,6 +21,13 @@
       "stop": "Sáránd",
       "delayMin": 0,
       "time": "0010"
+    },
+    {
+      "tripId": "VHJpcDoxOjI1MjUyMjgz",
+      "line": "Z21",
+      "stop": "Felsőlajos",
+      "delayMin": 0,
+      "time": "0041"
     }
   ]
 }
