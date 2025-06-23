@@ -1,0 +1,19 @@
+{
+  "date": "2025-06-23",
+  "totalTrains": 1,
+  "totalDelayMinutes": 0,
+  "averageDelay": 0,
+  "mostDelayedLine": {
+    "name": "Gy TRANSCARPATHIA",
+    "totalMinutes": 0
+  },
+  "top5Delays": [
+    {
+      "tripId": "VHJpcDoxOjI0Mjg3OTQ5",
+      "line": "Gy TRANSCARPATHIA",
+      "stop": "Debrecen",
+      "delayMin": 0,
+      "time": "0000"
+    }
+  ]
+}
